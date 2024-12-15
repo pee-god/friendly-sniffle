@@ -1,0 +1,650 @@
+[15Dec2024 00:00:00.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23944ms or 478 ticks behind
+[15Dec2024 00:00:03.089] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/2434735, l='ServerLevel[world]', x=364.36, y=63.00, z=350.25] died, message: 'Nitwit was blown up by '
+[15Dec2024 00:00:05.716] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2435691, l='ServerLevel[world]', x=275.36, y=63.00, z=356.16] died, message: 'Villager was blown up by '
+[15Dec2024 00:00:05.717] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2434730, l='ServerLevel[world]', x=278.09, y=63.00, z=353.73] died, message: 'Villager was blown up by '
+[15Dec2024 00:00:09.187] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2434284, l='ServerLevel[world]', x=306.09, y=62.94, z=346.05] died, message: 'Villager was blown up by '
+[15Dec2024 00:00:09.188] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2433836, l='ServerLevel[world]', x=317.75, y=63.00, z=340.31] died, message: 'Villager was blown up by '
+[15Dec2024 00:00:12.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[15Dec2024 00:00:14.968] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/friendly-sniffle/servidor_minecraft/./world/serverconfig/witherstormmod-server.toml is not correct. Correcting
+[15Dec2024 00:00:27.033] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/2437548, l='ServerLevel[world]', x=431.76, y=81.00, z=289.70] died, message: 'Mason suffocated in a wall'
+[15Dec2024 00:00:27.035] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/2437549, l='ServerLevel[world]', x=432.41, y=81.00, z=289.69] died, message: 'Nitwit suffocated in a wall'
+[15Dec2024 00:00:32.817] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17306ms or 346 ticks behind
+[15Dec2024 00:00:57.866] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10056ms or 201 ticks behind
+[15Dec2024 00:01:19.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Gave 1 [Grindstone] to quipit0s]
+[15Dec2024 00:01:21.800] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8940ms or 178 ticks behind
+[15Dec2024 00:01:46.129] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9369ms or 187 ticks behind
+[15Dec2024 00:02:09.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7960ms or 159 ticks behind
+[15Dec2024 00:02:30.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6673ms or 133 ticks behind
+[15Dec2024 00:02:51.466] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5756ms or 115 ticks behind
+[15Dec2024 00:03:13.638] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7177ms or 143 ticks behind
+[15Dec2024 00:03:35.403] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6793ms or 135 ticks behind
+[15Dec2024 00:03:37.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Ol' Betsy]
+[15Dec2024 00:03:56.844] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6483ms or 129 ticks behind
+[15Dec2024 00:04:17.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5603ms or 112 ticks behind
+[15Dec2024 00:04:36.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4361ms or 87 ticks behind
+[15Dec2024 00:04:55.053] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3293ms or 65 ticks behind
+[15Dec2024 00:05:15.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5203ms or 104 ticks behind
+[15Dec2024 00:05:33.612] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3402ms or 68 ticks behind
+[15Dec2024 00:05:51.518] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2908ms or 58 ticks behind
+[15Dec2024 00:06:10.593] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4083ms or 81 ticks behind
+[15Dec2024 00:06:29.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3726ms or 74 ticks behind
+[15Dec2024 00:06:48.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4218ms or 84 ticks behind
+[15Dec2024 00:07:07.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3679ms or 73 ticks behind
+[15Dec2024 00:07:25.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3303ms or 66 ticks behind
+[15Dec2024 00:07:45.930] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5520ms or 110 ticks behind
+[15Dec2024 00:07:54.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> command block swor
+[15Dec2024 00:08:06.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5160ms or 103 ticks behind
+[15Dec2024 00:08:25.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4756ms or 95 ticks behind
+[15Dec2024 00:08:37.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> command block sword
+[15Dec2024 00:08:45.988] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5178ms or 103 ticks behind
+[15Dec2024 00:09:07.132] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6172ms or 123 ticks behind
+[15Dec2024 00:09:29.249] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7139ms or 142 ticks behind
+[15Dec2024 00:09:53.679] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9469ms or 189 ticks behind
+[15Dec2024 00:10:20.892] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12231ms or 244 ticks behind
+[15Dec2024 00:10:44.970] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9109ms or 182 ticks behind
+[15Dec2024 00:11:10.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10582ms or 211 ticks behind
+[15Dec2024 00:11:37.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12198ms or 243 ticks behind
+[15Dec2024 00:12:04.378] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11718ms or 234 ticks behind
+[15Dec2024 00:12:07.035] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/friendly-sniffle/servidor_minecraft/./world/serverconfig/witherstormmod-server.toml is not correct. Correcting
+[15Dec2024 00:12:31.448] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12088ms or 241 ticks behind
+[15Dec2024 00:12:56.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9804ms or 196 ticks behind
+[15Dec2024 00:13:21.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10599ms or 211 ticks behind
+[15Dec2024 00:13:27.139] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-886, y=-6, z=-110} BlockPos{x=-886, y=-8, z=-110}
+[15Dec2024 00:13:27.141] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-886, y=-6, z=-110} BlockPos{x=-886, y=-8, z=-110}
+[15Dec2024 00:13:45.841] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9081ms or 181 ticks behind
+[15Dec2024 00:14:10.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9658ms or 193 ticks behind
+[15Dec2024 00:14:35.500] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10040ms or 200 ticks behind
+[15Dec2024 00:15:01.109] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10648ms or 212 ticks behind
+[15Dec2024 00:15:27.028] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10968ms or 219 ticks behind
+[15Dec2024 00:15:50.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8737ms or 174 ticks behind
+[15Dec2024 00:16:14.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8825ms or 176 ticks behind
+[15Dec2024 00:16:39.784] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10274ms or 205 ticks behind
+[15Dec2024 00:17:04.813] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10052ms or 201 ticks behind
+[15Dec2024 00:17:30.471] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10661ms or 213 ticks behind
+[15Dec2024 00:17:56.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10704ms or 214 ticks behind
+[15Dec2024 00:18:22.778] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11617ms or 232 ticks behind
+[15Dec2024 00:18:48.011] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10251ms or 205 ticks behind
+[15Dec2024 00:18:59.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[15Dec2024 00:19:14.030] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11019ms or 220 ticks behind
+[15Dec2024 00:19:40.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11225ms or 224 ticks behind
+[15Dec2024 00:20:07.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12060ms or 241 ticks behind
+[15Dec2024 00:20:38.482] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16222ms or 324 ticks behind
+[15Dec2024 00:21:13.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20519ms or 410 ticks behind
+[15Dec2024 00:21:54.573] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25612ms or 512 ticks behind
+[15Dec2024 00:22:40.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 31215ms or 624 ticks behind
+[15Dec2024 00:22:53.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
+[15Dec2024 00:23:08.213] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/friendly-sniffle/servidor_minecraft/./world/serverconfig/witherstormmod-server.toml is not correct. Correcting
+[15Dec2024 00:23:22.978] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27217ms or 544 ticks behind
+[15Dec2024 00:23:55.693] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17733ms or 354 ticks behind
+[15Dec2024 00:24:26.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15495ms or 309 ticks behind
+[15Dec2024 00:24:38.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s burned to death
+[15Dec2024 00:24:38.923] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for quipit0s with unique ID travelersbackpack.blaze_15.12.2024-00.24.38.dat
+[15Dec2024 00:24:38.927] [Server thread/INFO] [tombstone/]: The player quipit0s has successfully been saved
+[15Dec2024 00:24:57.339] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16229ms or 324 ticks behind
+[15Dec2024 00:25:22.296] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/friendly-sniffle/servidor_minecraft/./world/serverconfig/witherstormmod-server.toml is not correct. Correcting
+[15Dec2024 00:25:26.456] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14146ms or 282 ticks behind
+[15Dec2024 00:25:54.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12800ms or 256 ticks behind
+[15Dec2024 00:26:19.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10477ms or 209 ticks behind
+[15Dec2024 00:26:46.567] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11907ms or 238 ticks behind
+[15Dec2024 00:27:13.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12158ms or 243 ticks behind
+[15Dec2024 00:27:40.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11669ms or 233 ticks behind
+[15Dec2024 00:28:07.346] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11986ms or 239 ticks behind
+[15Dec2024 00:28:33.768] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11457ms or 229 ticks behind
+[15Dec2024 00:29:02.711] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13950ms or 279 ticks behind
+[15Dec2024 00:29:36.495] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18784ms or 375 ticks behind
+[15Dec2024 00:30:12.358] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20898ms or 417 ticks behind
+[15Dec2024 00:30:21.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Every Cloud Has a Silver Lining]
+[15Dec2024 00:30:41.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14313ms or 286 ticks behind
+[15Dec2024 00:30:59.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Spectator Mode]
+[15Dec2024 00:31:05.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[15Dec2024 00:31:09.002] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12391ms or 247 ticks behind
+[15Dec2024 00:31:37.044] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13084ms or 261 ticks behind
+[15Dec2024 00:32:01.841] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9830ms or 196 ticks behind
+[15Dec2024 00:32:25.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8963ms or 179 ticks behind
+[15Dec2024 00:32:49.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8888ms or 177 ticks behind
+[15Dec2024 00:33:14.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9911ms or 198 ticks behind
+[15Dec2024 00:33:40.444] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10934ms or 218 ticks behind
+[15Dec2024 00:34:07.474] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12063ms or 241 ticks behind
+[15Dec2024 00:34:35.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12593ms or 251 ticks behind
+[15Dec2024 00:35:02.029] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12019ms or 240 ticks behind
+[15Dec2024 00:35:31.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14014ms or 280 ticks behind
+[15Dec2024 00:35:58.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Spectator Mode]
+[15Dec2024 00:36:03.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[15Dec2024 00:36:06.461] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20450ms or 409 ticks behind
+[15Dec2024 00:36:41.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20435ms or 408 ticks behind
+[15Dec2024 00:36:59.705] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@515880ad[id=<null>,name=NormalGuy0_0,properties={},legacy=false] (/127.63.116.115:55659) lost connection: Disconnected
+[15Dec2024 00:37:11.994] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15133ms or 302 ticks behind
+[15Dec2024 00:37:38.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11467ms or 229 ticks behind
+[15Dec2024 00:37:59.890] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3890b6bb[id=<null>,name=NormalGuy0_0,properties={},legacy=false] (/127.63.116.115:46091) lost connection: Disconnected
+[15Dec2024 00:38:03.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10069ms or 201 ticks behind
+[15Dec2024 00:38:27.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8640ms or 172 ticks behind
+[15Dec2024 00:38:35.097] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1b267d0f[id=<null>,name=NormalGuy0_0,properties={},legacy=false] (/127.63.116.115:53127) lost connection: Disconnected
+[15Dec2024 00:38:42.549] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1dfb3d9a[id=<null>,name=NormalGuy0_0,properties={},legacy=false] (/127.63.116.115:57001) lost connection: Disconnected
+[15Dec2024 00:38:50.255] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8195ms or 163 ticks behind
+[15Dec2024 00:39:12.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7197ms or 143 ticks behind
+[15Dec2024 00:39:32.830] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5470ms or 109 ticks behind
+[15Dec2024 00:39:52.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[15Dec2024 00:39:55.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8132ms or 162 ticks behind
+[15Dec2024 00:40:23.561] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12651ms or 253 ticks behind
+[15Dec2024 00:40:44.675] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@c3cbaa9[id=<null>,name=NormalGuy0_0,properties={},legacy=false] (/127.63.116.115:54581) lost connection: Disconnected
+[15Dec2024 00:40:51.671] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13110ms or 262 ticks behind
+[15Dec2024 00:41:21.632] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14972ms or 299 ticks behind
+[15Dec2024 00:41:35.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao was blown up by 
+[15Dec2024 00:41:35.052] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for GabrielCacao with unique ID travelersbackpack.blaze_15.12.2024-00.41.35.dat
+[15Dec2024 00:41:35.089] [Server thread/INFO] [tombstone/]: The player GabrielCacao has successfully been saved
+[15Dec2024 00:41:49.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12535ms or 250 ticks behind
+[15Dec2024 00:42:10.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6103ms or 122 ticks behind
+[15Dec2024 00:42:31.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6214ms or 124 ticks behind
+[15Dec2024 00:42:56.483] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10073ms or 201 ticks behind
+[15Dec2024 00:43:22.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11105ms or 222 ticks behind
+[15Dec2024 00:43:49.032] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11472ms or 229 ticks behind
+[15Dec2024 00:44:16.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12196ms or 243 ticks behind
+[15Dec2024 00:44:47.811] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16650ms or 333 ticks behind
+[15Dec2024 00:45:19.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16899ms or 337 ticks behind
+[15Dec2024 00:45:57.143] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22482ms or 449 ticks behind
+[15Dec2024 00:46:15.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Spectator Mode]
+[15Dec2024 00:46:30.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[15Dec2024 00:46:39.490] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27380ms or 547 ticks behind
+[15Dec2024 00:47:25.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30890ms or 617 ticks behind
+[15Dec2024 00:47:34.650] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NormalGuy0_0[/127.63.116.115:53273] logged in with entity id 3687369 at (65.5, 64.0, 58.5)
+[15Dec2024 00:47:34.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NormalGuy0_0 joined the game
+[15Dec2024 00:47:34.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NormalGuy0_0 has made the advancement [Nether's Exoticism]
+[15Dec2024 00:47:34.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NormalGuy0_0 has made the advancement [Christmas]
+[15Dec2024 00:48:08.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NormalGuy0_0 lost connection: Disconnected
+[15Dec2024 00:48:08.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NormalGuy0_0 left the game
+[15Dec2024 00:48:10.461] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30150ms or 603 ticks behind
+[15Dec2024 00:48:51.628] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26168ms or 523 ticks behind
+[15Dec2024 00:49:31.638] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25027ms or 500 ticks behind
+[15Dec2024 00:49:55.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> -2142 -204
+[15Dec2024 00:50:12.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25782ms or 515 ticks behind
+[15Dec2024 00:50:51.800] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24440ms or 488 ticks behind
+[15Dec2024 00:50:57.818] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cwsplus:in_and_from_nether' in progress file ./world/advancements/1a89dbf7-f6d4-3031-bd69-cce7159d722c.json - it doesn't exist anymore?
+[15Dec2024 00:50:57.827] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GamerRCJ[/127.63.116.115:35675] logged in with entity id 3751670 at (2.9924695880904015, 33.0, 26.216670471586347)
+[15Dec2024 00:50:57.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ joined the game
+[15Dec2024 00:50:57.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Nether's Exoticism]
+[15Dec2024 00:50:57.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Christmas]
+[15Dec2024 00:50:57.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Mysterious Gift]
+[15Dec2024 00:51:14.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -9.896286956199901,2.2468000194787976,-0.2643571976842054
+[15Dec2024 00:51:24.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[15Dec2024 00:51:48.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -10.176462357168248,-0.42355929454303975,-1.012818448331302
+[15Dec2024 00:51:56.727] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 49966ms or 999 ticks behind
+[15Dec2024 00:52:28.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[15Dec2024 00:52:41.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30271ms or 605 ticks behind
+[15Dec2024 00:53:27.525] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30564ms or 611 ticks behind
+[15Dec2024 00:54:13.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30677ms or 613 ticks behind
+[15Dec2024 00:54:59.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30959ms or 619 ticks behind
+[15Dec2024 00:55:41.564] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27454ms or 549 ticks behind
+[15Dec2024 00:56:13.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to GabrielCacao]
+[15Dec2024 00:56:23.418] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26858ms or 537 ticks behind
+[15Dec2024 00:56:39.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Spectator Mode]
+[15Dec2024 00:57:04.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25846ms or 516 ticks behind
+[15Dec2024 00:57:31.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[15Dec2024 00:57:42.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23498ms or 469 ticks behind
+[15Dec2024 00:58:22.952] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25292ms or 505 ticks behind
+[15Dec2024 00:58:28.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported 3 entities to quipit0s]
+[15Dec2024 00:58:56.449] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18538ms or 370 ticks behind
+[15Dec2024 00:59:28.164] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16754ms or 335 ticks behind
+[15Dec2024 00:59:59.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16199ms or 323 ticks behind
+[15Dec2024 01:00:29.928] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15617ms or 312 ticks behind
+[15Dec2024 01:00:59.200] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14289ms or 285 ticks behind
+[15Dec2024 01:01:28.190] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14030ms or 280 ticks behind
+[15Dec2024 01:01:56.563] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13402ms or 268 ticks behind
+[15Dec2024 01:02:25.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14372ms or 287 ticks behind
+[15Dec2024 01:02:54.791] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13880ms or 277 ticks behind
+[15Dec2024 01:03:24.185] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14425ms or 288 ticks behind
+[15Dec2024 01:03:55.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16253ms or 325 ticks behind
+[15Dec2024 01:04:24.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13615ms or 272 ticks behind
+[15Dec2024 01:04:28.652] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s lost connection: Disconnected
+[15Dec2024 01:04:28.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s left the game
+[15Dec2024 01:04:49.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10852ms or 217 ticks behind
+[15Dec2024 01:05:15.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11075ms or 221 ticks behind
+[15Dec2024 01:05:22.585] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: quipit0s[/127.23.187.149:34575] logged in with entity id 4167622 at (-2137.300000011921, -51.0, -220.74770742389813)
+[15Dec2024 01:05:22.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s joined the game
+[15Dec2024 01:05:40.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has reached the goal [Nether's Overhaul]
+[15Dec2024 01:05:40.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Nether Depths Upgrade]
+[15Dec2024 01:05:58.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> we
+[15Dec2024 01:05:59.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> bon
+[15Dec2024 01:06:01.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> as
+[15Dec2024 01:06:02.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> wey
+[15Dec2024 01:06:02.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 31634ms or 632 ticks behind
+[15Dec2024 01:06:03.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> bonas
+[15Dec2024 01:06:05.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GamerRCJ> k
+[15Dec2024 01:06:08.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> zo
+[15Dec2024 01:06:09.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> k
+[15Dec2024 01:06:11.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> k
+[15Dec2024 01:06:13.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> j
+[15Dec2024 01:06:14.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> c
+[15Dec2024 01:06:16.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> k
+[15Dec2024 01:06:17.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> caca
+[15Dec2024 01:06:17.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> i
+[15Dec2024 01:06:19.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> c
+[15Dec2024 01:06:21.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> k
+[15Dec2024 01:06:22.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> k
+[15Dec2024 01:06:23.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> c
+[15Dec2024 01:06:24.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> k
+[15Dec2024 01:06:39.142] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21632ms or 432 ticks behind
+[15Dec2024 01:07:14.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20040ms or 400 ticks behind
+[15Dec2024 01:07:44.660] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15550ms or 311 ticks behind
+[15Dec2024 01:07:49.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [Nether's Overhaul]
+[15Dec2024 01:07:49.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Nether Depths Upgrade]
+[15Dec2024 01:08:17.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-281, y=45, z=-25} BlockPos{x=-281, y=45, z=-24}
+[15Dec2024 01:08:19.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19379ms or 387 ticks behind
+[15Dec2024 01:08:58.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24082ms or 481 ticks behind
+[15Dec2024 01:08:59.803] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-286, y=91, z=-70} BlockPos{x=-286, y=90, z=-69}
+[15Dec2024 01:08:59.804] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-286, y=92, z=-71} BlockPos{x=-286, y=90, z=-69}
+[15Dec2024 01:08:59.805] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-286, y=92, z=-71} BlockPos{x=-286, y=90, z=-69}
+[15Dec2024 01:08:59.805] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-286, y=92, z=-71} BlockPos{x=-286, y=90, z=-69}
+[15Dec2024 01:09:09.134] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-292, y=99, z=-73} BlockPos{x=-291, y=98, z=-73}
+[15Dec2024 01:09:09.388] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-292, y=99, z=-73} BlockPos{x=-291, y=98, z=-73}
+[15Dec2024 01:09:44.147] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 31086ms or 621 ticks behind
+[15Dec2024 01:09:54.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has reached the goal [Nether's Overhaul]
+[15Dec2024 01:09:54.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Nether Depths Upgrade]
+[15Dec2024 01:10:18.060] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-329, y=91, z=-90} BlockPos{x=-329, y=92, z=-88}
+[15Dec2024 01:10:19.504] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20394ms or 407 ticks behind
+[15Dec2024 01:10:51.893] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17433ms or 348 ticks behind
+[15Dec2024 01:11:23.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16638ms or 332 ticks behind
+[15Dec2024 01:11:56.034] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17574ms or 351 ticks behind
+[15Dec2024 01:12:31.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20016ms or 400 ticks behind
+[15Dec2024 01:13:00.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [A Terrible Fortress]
+[15Dec2024 01:13:03.988] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17978ms or 359 ticks behind
+[15Dec2024 01:13:39.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20321ms or 406 ticks behind
+[15Dec2024 01:14:13.723] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19463ms or 389 ticks behind
+[15Dec2024 01:14:35.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [A Terrible Fortress]
+[15Dec2024 01:14:45.855] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17145ms or 342 ticks behind
+[15Dec2024 01:14:57.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
+[15Dec2024 01:14:58.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [A Terrible Fortress]
+[15Dec2024 01:15:12.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! -3.386065734041722,0.8291870918577011,-9.435014458243415
+[15Dec2024 01:15:14.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[15Dec2024 01:15:17.917] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17107ms or 342 ticks behind
+[15Dec2024 01:15:46.030] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13120ms or 262 ticks behind
+[15Dec2024 01:16:14.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13714ms or 274 ticks behind
+[15Dec2024 01:16:40.974] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11263ms or 225 ticks behind
+[15Dec2024 01:17:05.054] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/friendly-sniffle/servidor_minecraft/./world/serverconfig/witherstormmod-server.toml is not correct. Correcting
+[15Dec2024 01:17:07.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11281ms or 225 ticks behind
+[15Dec2024 01:17:32.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10732ms or 214 ticks behind
+[15Dec2024 01:17:57.363] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9453ms or 189 ticks behind
+[15Dec2024 01:18:10.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Into Fire]
+[15Dec2024 01:18:21.879] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9518ms or 190 ticks behind
+[15Dec2024 01:18:44.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7412ms or 148 ticks behind
+[15Dec2024 01:18:50.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has reached the goal [EMF-Raider]
+[15Dec2024 01:19:10.845] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11584ms or 231 ticks behind
+[15Dec2024 01:19:36.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10809ms or 216 ticks behind
+[15Dec2024 01:20:05.011] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13400ms or 268 ticks behind
+[15Dec2024 01:20:32.493] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12482ms or 249 ticks behind
+[15Dec2024 01:20:34.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Thorn Again]
+[15Dec2024 01:20:58.522] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11062ms or 221 ticks behind
+[15Dec2024 01:21:26.018] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12507ms or 250 ticks behind
+[15Dec2024 01:21:54.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13145ms or 262 ticks behind
+[15Dec2024 01:22:24.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15237ms or 304 ticks behind
+[15Dec2024 01:22:36.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[15Dec2024 01:22:53.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14020ms or 280 ticks behind
+[15Dec2024 01:22:55.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Spooky Scary Skeleton]
+[15Dec2024 01:23:22.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14676ms or 293 ticks behind
+[15Dec2024 01:23:55.012] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17051ms or 341 ticks behind
+[15Dec2024 01:24:10.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[15Dec2024 01:24:30.620] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20610ms or 412 ticks behind
+[15Dec2024 01:24:44.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[15Dec2024 01:25:01.255] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15644ms or 312 ticks behind
+[15Dec2024 01:25:30.420] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14210ms or 284 ticks behind
+[15Dec2024 01:26:00.301] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14891ms or 297 ticks behind
+[15Dec2024 01:26:33.125] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17865ms or 357 ticks behind
+[15Dec2024 01:27:06.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18660ms or 373 ticks behind
+[15Dec2024 01:27:39.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17378ms or 347 ticks behind
+[15Dec2024 01:28:10.171] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16061ms or 321 ticks behind
+[15Dec2024 01:28:25.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[15Dec2024 01:28:26.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[15Dec2024 01:28:27.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[15Dec2024 01:28:27.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[15Dec2024 01:28:36.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> amen
+[15Dec2024 01:28:40.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[15Dec2024 01:28:41.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[15Dec2024 01:28:41.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[15Dec2024 01:28:41.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[15Dec2024 01:28:42.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17183ms or 343 ticks behind
+[15Dec2024 01:28:44.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[15Dec2024 01:29:05.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has reached the goal [Strong or Careful]
+[15Dec2024 01:29:05.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ burned to death
+[15Dec2024 01:29:05.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Your First Grave]
+[15Dec2024 01:29:05.997] [Server thread/INFO] [tombstone/]: The player GamerRCJ has successfully been saved
+[15Dec2024 01:29:08.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [The Most Useful Key]
+[15Dec2024 01:29:10.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12860ms or 257 ticks behind
+[15Dec2024 01:29:35.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has reached the goal [A Fast Comeback]
+[15Dec2024 01:29:39.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 9.702448203176573,-3.1661092609382138,0.08655854233883531
+[15Dec2024 01:29:46.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21127ms or 422 ticks behind
+[15Dec2024 01:30:16.614] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15354ms or 307 ticks behind
+[15Dec2024 01:30:49.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18367ms or 367 ticks behind
+[15Dec2024 01:31:24.007] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19047ms or 380 ticks behind
+[15Dec2024 01:31:58.952] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19992ms or 399 ticks behind
+[15Dec2024 01:32:08.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
+[15Dec2024 01:32:35.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21339ms or 426 ticks behind
+[15Dec2024 01:33:09.490] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19280ms or 385 ticks behind
+[15Dec2024 01:33:27.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ moved too quickly! -2.448192270320021,-3.8447679954833944,9.057718117943352
+[15Dec2024 01:33:31.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ moved too quickly! -6.104213699841637,-5.078400001525878,6.49730934334174
+[15Dec2024 01:34:00.830] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 36369ms or 727 ticks behind
+[15Dec2024 01:34:48.627] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 32816ms or 656 ticks behind
+[15Dec2024 01:35:21.150] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-132, y=35, z=-256} BlockPos{x=-132, y=36, z=-257}
+[15Dec2024 01:35:35.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 31911ms or 638 ticks behind
+[15Dec2024 01:35:39.790] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/friendly-sniffle/servidor_minecraft/./world/serverconfig/witherstormmod-server.toml is not correct. Correcting
+[15Dec2024 01:36:18.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ moved too quickly! -9.722913224243598,2.796735600668711,-0.2399807160949763
+[15Dec2024 01:36:28.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 38360ms or 767 ticks behind
+[15Dec2024 01:37:15.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 31987ms or 639 ticks behind
+[15Dec2024 01:37:57.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26376ms or 527 ticks behind
+[15Dec2024 01:38:39.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27555ms or 551 ticks behind
+[15Dec2024 01:38:52.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
+[15Dec2024 01:39:21.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26395ms or 527 ticks behind
+[15Dec2024 01:40:04.285] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28225ms or 564 ticks behind
+[15Dec2024 01:40:48.958] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 29698ms or 593 ticks behind
+[15Dec2024 01:41:31.378] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27467ms or 549 ticks behind
+[15Dec2024 01:42:13.689] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27328ms or 546 ticks behind
+[15Dec2024 01:42:56.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28121ms or 562 ticks behind
+[15Dec2024 01:43:39.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27805ms or 556 ticks behind
+[15Dec2024 01:44:20.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25617ms or 512 ticks behind
+[15Dec2024 01:44:58.653] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
+[15Dec2024 01:44:59.797] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24636ms or 492 ticks behind
+[15Dec2024 01:45:27.523] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
+[15Dec2024 01:45:41.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26261ms or 525 ticks behind
+[15Dec2024 01:46:08.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Hidden in the Depths]
+[15Dec2024 01:46:23.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27385ms or 547 ticks behind
+[15Dec2024 01:47:08.189] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 29829ms or 596 ticks behind
+[15Dec2024 01:47:32.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
+[15Dec2024 01:47:36.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[15Dec2024 01:47:51.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28458ms or 569 ticks behind
+[15Dec2024 01:48:33.462] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26852ms or 537 ticks behind
+[15Dec2024 01:49:16.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27655ms or 553 ticks behind
+[15Dec2024 01:49:58.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27314ms or 546 ticks behind
+[15Dec2024 01:50:36.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ moved too quickly! -8.248260714867328,-1.0,5.634625773495941
+[15Dec2024 01:50:44.951] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 31541ms or 630 ticks behind
+[15Dec2024 01:51:27.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27501ms or 550 ticks behind
+[15Dec2024 01:51:57.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Magic Writing]
+[15Dec2024 01:52:08.959] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26549ms or 530 ticks behind
+[15Dec2024 01:52:49.729] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25818ms or 516 ticks behind
+[15Dec2024 01:53:32.577] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27866ms or 557 ticks behind
+[15Dec2024 01:54:17.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30283ms or 605 ticks behind
+[15Dec2024 01:55:01.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 29108ms or 582 ticks behind
+[15Dec2024 01:55:42.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
+[15Dec2024 01:55:47.552] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30642ms or 612 ticks behind
+[15Dec2024 01:56:31.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28860ms or 577 ticks behind
+[15Dec2024 01:57:18.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 31737ms or 634 ticks behind
+[15Dec2024 01:57:39.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
+[15Dec2024 01:58:04.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 31748ms or 634 ticks behind
+[15Dec2024 01:58:51.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 31958ms or 639 ticks behind
+[15Dec2024 01:59:43.268] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 36558ms or 731 ticks behind
+[15Dec2024 02:00:25.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
+[15Dec2024 02:00:29.127] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30866ms or 617 ticks behind
+[15Dec2024 02:00:49.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ fell from a high place
+[15Dec2024 02:00:49.500] [Server thread/INFO] [tombstone/]: The player GamerRCJ has successfully been saved
+[15Dec2024 02:01:19.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 35883ms or 717 ticks behind
+[15Dec2024 02:01:25.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Eternal Expedition]
+[15Dec2024 02:01:29.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Eternal Expedition]
+[15Dec2024 02:02:10.651] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 35691ms or 713 ticks behind
+[15Dec2024 02:02:37.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has completed the challenge [Hot Tourist Destinations]
+[15Dec2024 02:03:01.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 35671ms or 713 ticks behind
+[15Dec2024 02:03:24.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
+[15Dec2024 02:03:51.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 35374ms or 707 ticks behind
+[15Dec2024 02:03:51.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Rattling Remnants]
+[15Dec2024 02:04:09.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
+[15Dec2024 02:04:37.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GamerRCJ]
+[15Dec2024 02:04:40.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has completed the challenge [Hot Tourist Destinations]
+[15Dec2024 02:04:41.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 35255ms or 705 ticks behind
+[15Dec2024 02:04:44.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Rattling Remnants]
+[15Dec2024 02:05:18.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [Non-renewable? Yeah, right..]
+[15Dec2024 02:05:30.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Frightening Rush]
+[15Dec2024 02:05:31.769] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 34909ms or 698 ticks behind
+[15Dec2024 02:05:57.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
+[15Dec2024 02:06:15.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ moved too quickly! 7.398871563903462,1.6995767040478995,-6.61286068865968
+[15Dec2024 02:06:25.660] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 38899ms or 777 ticks behind
+[15Dec2024 02:07:13.394] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 32783ms or 655 ticks behind
+[15Dec2024 02:07:40.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[15Dec2024 02:08:00.158] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 31798ms or 635 ticks behind
+[15Dec2024 02:08:45.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30760ms or 615 ticks behind
+[15Dec2024 02:09:34.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 33313ms or 666 ticks behind
+[15Dec2024 02:10:21.991] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 32831ms or 656 ticks behind
+[15Dec2024 02:10:42.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[15Dec2024 02:11:10.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 33888ms or 677 ticks behind
+[15Dec2024 02:12:01.612] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 35802ms or 716 ticks behind
+[15Dec2024 02:12:49.620] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 33010ms or 660 ticks behind
+[15Dec2024 02:13:41.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 36491ms or 729 ticks behind
+[15Dec2024 02:14:25.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
+[15Dec2024 02:14:34.307] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 38247ms or 764 ticks behind
+[15Dec2024 02:15:25.491] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 36231ms or 724 ticks behind
+[15Dec2024 02:16:18.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
+[15Dec2024 02:16:18.951] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 38491ms or 769 ticks behind
+[15Dec2024 02:16:30.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[15Dec2024 02:17:09.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[15Dec2024 02:17:14.175] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 40265ms or 805 ticks behind
+[15Dec2024 02:17:15.596] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ lost connection: Disconnected
+[15Dec2024 02:17:15.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ left the game
+[15Dec2024 02:18:01.285] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 32125ms or 642 ticks behind
+[15Dec2024 02:18:48.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 32154ms or 643 ticks behind
+[15Dec2024 02:19:36.639] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 33229ms or 664 ticks behind
+[15Dec2024 02:20:22.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 31204ms or 624 ticks behind
+[15Dec2024 02:20:37.369] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GamerRCJ[/127.63.116.115:46371] logged in with entity id 6618427 at (981.2727476569862, 80.0, -1350.4975767557669)
+[15Dec2024 02:20:37.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ joined the game
+[15Dec2024 02:20:48.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[15Dec2024 02:21:14.174] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 36364ms or 727 ticks behind
+[15Dec2024 02:21:14.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ burned to death
+[15Dec2024 02:21:14.632] [Server thread/INFO] [tombstone/]: The player GamerRCJ has successfully been saved
+[15Dec2024 02:21:21.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[15Dec2024 02:21:29.779] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[15Dec2024 02:22:03.308] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 34148ms or 682 ticks behind
+[15Dec2024 02:22:47.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ moved too quickly! -7.756431001458054,1.1767592750642422,-6.231201764464004
+[15Dec2024 02:22:57.266] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 39005ms or 780 ticks behind
+[15Dec2024 02:23:45.749] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 33489ms or 669 ticks behind
+[15Dec2024 02:24:32.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 32211ms or 644 ticks behind
+[15Dec2024 02:25:22.261] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 34350ms or 687 ticks behind
+[15Dec2024 02:26:07.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[15Dec2024 02:26:11.678] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 34418ms or 688 ticks behind
+[15Dec2024 02:26:55.301] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28641ms or 572 ticks behind
+[15Dec2024 02:27:12.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[15Dec2024 02:27:36.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26364ms or 527 ticks behind
+[15Dec2024 02:28:03.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Creative Mode]
+[15Dec2024 02:28:12.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Spectator Mode]
+[15Dec2024 02:28:16.561] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24950ms or 499 ticks behind
+[15Dec2024 02:28:20.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Creative Mode]
+[15Dec2024 02:28:59.989] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28429ms or 568 ticks behind
+[15Dec2024 02:29:02.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
+[15Dec2024 02:29:12.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Spectator Mode]
+[15Dec2024 02:29:13.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Creative Mode]
+[15Dec2024 02:29:14.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[15Dec2024 02:29:40.470] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25509ms or 510 ticks behind
+[15Dec2024 02:30:08.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
+[15Dec2024 02:30:20.573] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25113ms or 502 ticks behind
+[15Dec2024 02:30:51.474] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1081, y=85, z=-1488} BlockPos{x=1081, y=88, z=-1488}
+[15Dec2024 02:31:00.733] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25173ms or 503 ticks behind
+[15Dec2024 02:31:02.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
+[15Dec2024 02:31:36.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GamerRCJ]
+[15Dec2024 02:31:40.030] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24319ms or 486 ticks behind
+[15Dec2024 02:31:47.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[15Dec2024 02:32:12.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has completed the challenge [Subspace Bubble]
+[15Dec2024 02:32:17.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has completed the challenge [Subspace Bubble]
+[15Dec2024 02:32:21.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has completed the challenge [Subspace Bubble]
+[15Dec2024 02:32:34.643] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 39633ms or 792 ticks behind
+[15Dec2024 02:33:37.987] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 48377ms or 967 ticks behind
+[15Dec2024 02:33:51.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ moved too quickly! -9.657870103972527,-0.5358406250445569,2.564362366363639
+[15Dec2024 02:34:03.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Gave 1 [Amulet] to quipit0s]
+[15Dec2024 02:34:51.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 58167ms or 1163 ticks behind
+[15Dec2024 02:35:21.066] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ moved too quickly! 5.728228015330387,4.88003913857294,6.910824982320264
+[15Dec2024 02:35:24.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ moved too quickly! 4.725493184476363,-0.4938648978937863,8.923115244360815
+[15Dec2024 02:35:33.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to -2141.500000, -52.000000, -203.500000]
+[15Dec2024 02:35:45.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported 3 entities to quipit0s]
+[15Dec2024 02:36:02.148] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 56038ms or 1120 ticks behind
+[15Dec2024 02:36:56.194] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 39083ms or 781 ticks behind
+[15Dec2024 02:37:45.677] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 34517ms or 690 ticks behind
+[15Dec2024 02:38:38.108] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 37448ms or 748 ticks behind
+[15Dec2024 02:39:39.003] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 45943ms or 918 ticks behind
+[15Dec2024 02:40:35.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 41858ms or 837 ticks behind
+[15Dec2024 02:41:30.653] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 39842ms or 796 ticks behind
+[15Dec2024 02:42:23.337] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 37727ms or 754 ticks behind
+[15Dec2024 02:43:18.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 40077ms or 801 ticks behind
+[15Dec2024 02:43:33.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Spooky Scary Skeleton]
+[15Dec2024 02:44:11.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 38158ms or 763 ticks behind
+[15Dec2024 02:45:05.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 38815ms or 776 ticks behind
+[15Dec2024 02:46:00.882] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 40572ms or 811 ticks behind
+[15Dec2024 02:46:55.947] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 40087ms or 801 ticks behind
+[15Dec2024 02:47:55.745] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 44835ms or 896 ticks behind
+[15Dec2024 02:49:03.175] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 52465ms or 1049 ticks behind
+[15Dec2024 02:50:14.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 56519ms or 1130 ticks behind
+[15Dec2024 02:50:55.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has completed the challenge [Revolutionary Discoveries!]
+[15Dec2024 02:51:27.310] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 57650ms or 1153 ticks behind
+[15Dec2024 02:52:26.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to -2141.500000, -52.000000, -203.500000]
+[15Dec2024 02:52:36.626] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 54315ms or 1086 ticks behind
+[15Dec2024 02:53:42.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 51322ms or 1026 ticks behind
+[15Dec2024 02:54:45.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 47722ms or 954 ticks behind
+[15Dec2024 02:55:50.610] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 49999ms or 999 ticks behind
+[15Dec2024 02:56:45.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 39775ms or 795 ticks behind
+[15Dec2024 02:57:37.329] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 37019ms or 740 ticks behind
+[15Dec2024 02:58:37.476] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 45166ms or 903 ticks behind
+[15Dec2024 02:59:49.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 57084ms or 1141 ticks behind
+[15Dec2024 03:00:57.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 52649ms or 1052 ticks behind
+[15Dec2024 03:01:59.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 47062ms or 941 ticks behind
+[15Dec2024 03:03:06.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 52170ms or 1043 ticks behind
+[15Dec2024 03:03:22.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to -2141.500000, -52.000000, -203.500000]
+[15Dec2024 03:03:32.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Spectator Mode]
+[15Dec2024 03:03:37.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[15Dec2024 03:04:01.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 40114ms or 802 ticks behind
+[15Dec2024 03:04:49.971] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-267, y=72, z=-47} BlockPos{x=-268, y=72, z=-47}
+[15Dec2024 03:04:49.973] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-267, y=72, z=-47} BlockPos{x=-268, y=72, z=-47}
+[15Dec2024 03:04:57.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 41521ms or 830 ticks behind
+[15Dec2024 03:05:14.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-234, y=82, z=-43} BlockPos{x=-235, y=84, z=-44}
+[15Dec2024 03:05:14.474] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-234, y=82, z=-43} BlockPos{x=-235, y=84, z=-44}
+[15Dec2024 03:05:14.475] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-234, y=82, z=-43} BlockPos{x=-235, y=84, z=-44}
+[15Dec2024 03:05:14.657] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-234, y=82, z=-43} BlockPos{x=-235, y=84, z=-44}
+[15Dec2024 03:05:14.658] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-234, y=82, z=-43} BlockPos{x=-235, y=84, z=-44}
+[15Dec2024 03:05:14.659] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-234, y=82, z=-43} BlockPos{x=-235, y=84, z=-44}
+[15Dec2024 03:05:14.660] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-234, y=82, z=-43} BlockPos{x=-235, y=84, z=-44}
+[15Dec2024 03:06:02.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 49434ms or 988 ticks behind
+[15Dec2024 03:06:14.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ moved too quickly! -10.020608995298971,2.2508673611415873,0.5355290082702595
+[15Dec2024 03:07:09.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 52102ms or 1042 ticks behind
+[15Dec2024 03:07:38.251] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ lost connection: Disconnected
+[15Dec2024 03:07:38.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ left the game
+[15Dec2024 03:08:01.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-245, y=100, z=-8} BlockPos{x=-245, y=101, z=-4}
+[15Dec2024 03:08:09.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 44657ms or 893 ticks behind
+[15Dec2024 03:09:04.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 40727ms or 814 ticks behind
+[15Dec2024 03:09:38.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[15Dec2024 03:09:56.582] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 36822ms or 736 ticks behind
+[15Dec2024 03:10:27.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[15Dec2024 03:10:46.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 34892ms or 697 ticks behind
+[15Dec2024 03:10:47.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[15Dec2024 03:11:04.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[15Dec2024 03:11:22.873] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/friendly-sniffle/servidor_minecraft/./world/serverconfig/witherstormmod-server.toml is not correct. Correcting
+[15Dec2024 03:11:34.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 32829ms or 656 ticks behind
+[15Dec2024 03:11:56.446] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/7774101, l='ServerLevel[world]', x=-1755.58, y=150.66, z=-786.02] died, message: 'Nitwit was chomped by Wither Storm Segment'
+[15Dec2024 03:12:19.743] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7793116, l='ServerLevel[world]', x=-1940.70, y=74.77, z=-864.72] died, message: 'Villager was blown up by Wither Storm Segment'
+[15Dec2024 03:12:23.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 33936ms or 678 ticks behind
+[15Dec2024 03:13:12.439] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 34329ms or 686 ticks behind
+[15Dec2024 03:13:25.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Hidden in the Depths]
+[15Dec2024 03:13:50.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[15Dec2024 03:14:04.186] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 36776ms or 735 ticks behind
+[15Dec2024 03:15:00.195] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 41035ms or 820 ticks behind
+[15Dec2024 03:15:22.825] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/7812973, l='ServerLevel[world]', x=-1899.11, y=71.00, z=-746.43] died, message: 'Nitwit hit the ground too hard'
+[15Dec2024 03:15:30.990] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/7812986, l='ServerLevel[world]', x=-1968.13, y=72.16, z=-842.95] died, message: 'Nitwit was blown up by Wither Storm Segment'
+[15Dec2024 03:15:50.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 35052ms or 701 ticks behind
+[15Dec2024 03:16:02.487] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7774103, l='ServerLevel[world]', x=-1984.14, y=73.00, z=-879.59] died, message: 'Villager was blown up by Wither Storm Segment'
+[15Dec2024 03:16:02.488] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7793106, l='ServerLevel[world]', x=-1980.21, y=72.00, z=-876.81] died, message: 'Villager was blown up by Wither Storm Segment'
+[15Dec2024 03:16:20.615] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7793105, l='ServerLevel[world]', x=-1733.69, y=171.25, z=-576.11] died, message: 'Villager was chomped by Wither Storm Segment'
+[15Dec2024 03:16:21.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-257, y=12, z=26} BlockPos{x=-259, y=11, z=23}
+[15Dec2024 03:16:40.602] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 35391ms or 707 ticks behind
+[15Dec2024 03:17:24.100] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7833222, l='ServerLevel[world]', x=-1984.03, y=72.00, z=-867.89] died, message: 'Villager was blown up by Wither Storm Segment'
+[15Dec2024 03:17:25.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[15Dec2024 03:17:29.204] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 33644ms or 672 ticks behind
+[15Dec2024 03:18:28.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 44067ms or 881 ticks behind
+[15Dec2024 03:18:30.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Gave 1 [Golden Boots] to quipit0s]
+[15Dec2024 03:18:40.826] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7793119, l='ServerLevel[world]', x=-1959.37, y=74.00, z=-912.48] died, message: 'Villager was blown up by '
+[15Dec2024 03:18:43.531] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7773656, l='ServerLevel[world]', x=-1882.35, y=67.00, z=-719.33] died, message: 'Villager hit the ground too hard'
+[15Dec2024 03:18:47.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied enchantment Mending to quipit0s's item]
+[15Dec2024 03:19:15.876] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 32666ms or 653 ticks behind
+[15Dec2024 03:19:26.648] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7811811, l='ServerLevel[world]', x=-2000.50, y=76.00, z=-896.50] died, message: 'Villager was blown up by Wither Storm Segment'
+[15Dec2024 03:19:26.649] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7866690, l='ServerLevel[world]', x=-2001.25, y=76.00, z=-889.42] died, message: 'Villager was blown up by Wither Storm Segment'
+[15Dec2024 03:20:03.382] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 32522ms or 650 ticks behind
+[15Dec2024 03:20:50.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 32103ms or 642 ticks behind
+[15Dec2024 03:20:59.701] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-266, y=12, z=11} BlockPos{x=-267, y=10, z=11}
+[15Dec2024 03:21:10.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Creative Mode]
+[15Dec2024 03:21:15.369] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7793118, l='ServerLevel[world]', x=-1815.85, y=196.30, z=-830.76] died, message: 'Villager was chomped by Wither Storm Segment'
+[15Dec2024 03:21:17.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[15Dec2024 03:21:19.422] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/friendly-sniffle/servidor_minecraft/./world/serverconfig/witherstormmod-server.toml is not correct. Correcting
+[15Dec2024 03:21:25.592] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/friendly-sniffle/servidor_minecraft/./world/serverconfig/witherstormmod-server.toml is not correct. Correcting
+[15Dec2024 03:21:36.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 31121ms or 622 ticks behind
+[15Dec2024 03:22:22.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30833ms or 616 ticks behind
+[15Dec2024 03:23:09.815] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 32455ms or 649 ticks behind
+[15Dec2024 03:23:54.689] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 29879ms or 597 ticks behind
+[15Dec2024 03:24:15.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Gave 16 [Bottle o' Enchanting] to quipit0s]
+[15Dec2024 03:24:40.444] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30783ms or 615 ticks behind
+[15Dec2024 03:25:28.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 32800ms or 656 ticks behind
+[15Dec2024 03:26:00.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Creative Mode]
+[15Dec2024 03:26:01.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[15Dec2024 03:26:18.057] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 34847ms or 696 ticks behind
+[15Dec2024 03:26:47.617] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/friendly-sniffle/servidor_minecraft/./world/serverconfig/witherstormmod-server.toml is not correct. Correcting
+[15Dec2024 03:26:56.568] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/friendly-sniffle/servidor_minecraft/./world/serverconfig/witherstormmod-server.toml is not correct. Correcting
+[15Dec2024 03:27:12.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 39778ms or 795 ticks behind
+[15Dec2024 03:27:14.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Creative Mode]
+[15Dec2024 03:27:15.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[15Dec2024 03:27:33.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Creative Mode]
+[15Dec2024 03:27:34.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[15Dec2024 03:28:07.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 39929ms or 798 ticks behind
+[15Dec2024 03:28:17.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[15Dec2024 03:28:55.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 32922ms or 658 ticks behind
+[15Dec2024 03:29:42.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 31989ms or 639 ticks behind
+[15Dec2024 03:30:28.322] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30811ms or 616 ticks behind
+[15Dec2024 03:31:14.111] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30801ms or 616 ticks behind
+[15Dec2024 03:32:00.082] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30972ms or 619 ticks behind
+[15Dec2024 03:32:45.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30251ms or 605 ticks behind
+[15Dec2024 03:33:30.416] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30106ms or 602 ticks behind
+[15Dec2024 03:34:09.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -2.036312045656473,-0.07242780368044421,-9.817094816579072
+[15Dec2024 03:34:10.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[15Dec2024 03:34:17.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 32481ms or 649 ticks behind
+[15Dec2024 03:35:00.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27354ms or 547 ticks behind
+[15Dec2024 03:35:41.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25846ms or 516 ticks behind
+[15Dec2024 03:36:09.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to -266.500000, -6.000000, -24.500000]
+[15Dec2024 03:36:10.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Creative Mode]
+[15Dec2024 03:36:22.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26212ms or 524 ticks behind
+[15Dec2024 03:36:24.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Spectator Mode]
+[15Dec2024 03:36:51.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> tepeameee
+[15Dec2024 03:36:53.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> fast
+[15Dec2024 03:36:54.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> xd
+[15Dec2024 03:37:04.527] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27316ms or 546 ticks behind
+[15Dec2024 03:37:13.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Creative Mode]
+[15Dec2024 03:37:15.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[15Dec2024 03:37:18.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[15Dec2024 03:37:45.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
+[15Dec2024 03:37:45.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26400ms or 528 ticks behind
+[15Dec2024 03:38:20.939] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20028ms or 400 ticks behind
+[15Dec2024 03:38:57.379] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21469ms or 429 ticks behind
+[15Dec2024 03:39:09.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set 1 experience levels on quipit0s]
+[15Dec2024 03:39:17.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set 30 experience levels on quipit0s]
+[15Dec2024 03:39:33.176] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20816ms or 416 ticks behind
+[15Dec2024 03:40:08.216] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20055ms or 401 ticks behind
+[15Dec2024 03:40:40.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set 30 experience levels on quipit0s]
+[15Dec2024 03:40:42.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19274ms or 385 ticks behind
+[15Dec2024 03:40:56.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set 30 experience levels on quipit0s]
+[15Dec2024 03:41:11.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set 30 experience levels on quipit0s]
+[15Dec2024 03:41:15.125] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17665ms or 353 ticks behind
+[15Dec2024 03:41:46.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16870ms or 337 ticks behind
+[15Dec2024 03:41:48.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set 30 experience levels on quipit0s]
+[15Dec2024 03:41:58.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set 30 experience levels on quipit0s]
+[15Dec2024 03:42:19.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17706ms or 354 ticks behind
+[15Dec2024 03:42:22.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set 30 experience levels on quipit0s]
+[15Dec2024 03:42:51.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set 30 experience levels on quipit0s]
+[15Dec2024 03:42:52.368] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17707ms or 354 ticks behind
+[15Dec2024 03:43:24.948] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17588ms or 351 ticks behind
+[15Dec2024 03:43:31.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied enchantment Protection IV to quipit0s's item]
+[15Dec2024 03:43:42.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied enchantment Unbreaking II to quipit0s's item]
+[15Dec2024 03:43:49.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied enchantment Unbreaking II to quipit0s's item]
+[15Dec2024 03:43:54.099] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao lost connection: Disconnected
+[15Dec2024 03:43:54.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao left the game
+[15Dec2024 03:43:55.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Applied enchantment Unbreaking II to quipit0s's item]
+[15Dec2024 03:43:56.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16959ms or 339 ticks behind
+[15Dec2024 03:44:04.527] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s lost connection: Disconnected
+[15Dec2024 03:44:04.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s left the game
+[15Dec2024 04:01:16.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[15Dec2024 04:01:16.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Dec2024 04:01:16.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Dec2024 04:01:16.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Dec2024 04:01:17.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15Dec2024 04:01:18.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
+[15Dec2024 04:01:18.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15Dec2024 04:01:18.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15Dec2024 04:01:19.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15Dec2024 04:01:19.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[15Dec2024 04:01:19.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Dec2024 04:01:19.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Dec2024 04:01:19.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
