@@ -10,14 +10,14 @@
 		#Specifies the time (in minutes) after being revived that the Wither Storm should ignore players.
 		#Default: 3
 		#Range: 1 ~ 40
-		revivalPlayerProtection = 4
+		revivalPlayerProtection = 10
 		#Specifies if the Wither Storm should automatically revive if not found after a period of time.
 		#Default: true
 		revivalTimer = true
 		#Specifies when (in minutes) the Wither Storm will automatically revive when playing dead.
 		#Default: 60
 		#Range: 1 ~ 120
-		revivalTimeMinutes = 1
+		revivalTimeMinutes = 6
 
 	#Misc
 	[server.misc]
@@ -28,7 +28,7 @@
 		#Specifies the rotation speed of the Wither Storm.
 		#Default: 0.1
 		#Range: 0.1 ~ 1.0
-		rotationSpeed = 0.3
+		rotationSpeed = 0.1
 		#Toggle to enable/disable Wither Storm chunk loading when no players are online.
 		#Default: false
 		shouldChunkLoadWhenNoPlayers = false
@@ -497,22 +497,22 @@
 		#The flaming skull explosion size when they collide with blocks.
 		#Default: 5.0
 		#Range: 1.0 ~ 16.0
-		flamingSkullExplosionSize = 7.0
+		flamingSkullExplosionSize = 5.0
 		#The speed modifier for flaming wither skulls. Higher = faster.
 		#Default: 1.0
 		#Range: 0.5 ~ 8.0
-		flamingSkullSpeedModifier = 1.2
+		flamingSkullSpeedModifier = 1.0
 
 	#Roaring
 	[server.roaring]
 		#Specifies the lowest time, in seconds, it will take for one of the Wither Storm's heads to initiate a roar and shoot a flaming skull.
 		#Default: 20
 		#Range: 1 ~ 100
-		minimumRoarInterval = 10
+		minimumRoarInterval = 20
 		#Specifies the greatest time, in seconds, it will take for one of the Wither Storm's heads to initiate a roar and shoot a flaming skull.
 		#Default: 50
 		#Range: 1 ~ 100
-		maximumRoarInterval = 20
+		maximumRoarInterval = 40
 
 	#Item Preservation
 	[server.item_preservation]
