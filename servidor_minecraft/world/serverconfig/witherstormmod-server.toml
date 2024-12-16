@@ -21,6 +21,14 @@
 
 	#Misc
 	[server.misc]
+		#Specifies the phase the Wither Storm should be set to when resummoned by a withered beacon.
+		#Default: 4
+		#Range: 0 ~ 7
+		resummonedPhase = 5
+		#Specifies the rotation speed of the Wither Storm.
+		#Default: 0.1
+		#Range: 0.1 ~ 1.0
+		rotationSpeed = 0.3
 		#Toggle to enable/disable Wither Storm chunk loading when no players are online.
 		#Default: false
 		shouldChunkLoadWhenNoPlayers = false
@@ -46,10 +54,6 @@
 		#Specifies if the bowels entrance hole in the Wither Storm's mass at the end of phase 7 should be available or not.
 		#Default: true
 		shouldShowHole = true
-		#Specifies the rotation speed of the Wither Storm.
-		#Default: 0.1
-		#Range: 0.1 ~ 1.0
-		rotationSpeed = 0.3
 		#Specifies if the Wither Storm should regenerate its health and be melee attackable.
 		#Default: true
 		witherStormInvulnerability = true
@@ -68,10 +72,6 @@
 		#Specifies if max strength damange resistance should be given to the player when falling out of the bowels, to mitigate fall damage.
 		#Default: true
 		bowelsFallResistance = true
-		#Specifies the phase the Wither Storm should be set to when resummoned by a withered beacon.
-		#Default: 4
-		#Range: 0 ~ 7
-		resummonedPhase = 5
 		#Specifies if the Wither Storm's heads can be attacked.
 		#Default: true
 		canAttackHeads = true
@@ -230,17 +230,6 @@
 			#Default: 0.02
 			#Range: 0.01 ~ 1.0
 			normalFlyingSpeed = 0.02
-
-	#Flaming Skulls
-	[server.flaming_skulls]
-		#The flaming skull explosion size when they collide with blocks.
-		#Default: 5.0
-		#Range: 1.0 ~ 16.0
-		flamingSkullExplosionSize = 7.0
-		#The speed modifier for flaming wither skulls. Higher = faster.
-		#Default: 1.0
-		#Range: 0.5 ~ 8.0
-		flamingSkullSpeedModifier = 1.2
 
 	#Targeting
 	[server.targeting]
@@ -471,7 +460,7 @@
 		canSummonSymbiont = true
 		#Specifies if the Withered Symbiont is hostile towards other mobs (This is only applied to Symbionts spawned after this change is applied).
 		#Default: false
-		shouldSymbiontAttackMobs = false
+		shouldSymbiontAttackMobs = true
 		#Specifies the minimum interval (+random) in seconds that the Wither Storm should check for Withered Symbiont spawn conditions.
 		#Default: 60
 		#Range: 1 ~ 240
@@ -501,7 +490,18 @@
 		#Adds this value multiplied by the amount of nearby players to the Symbiont's max health when it is spawned. Set to zero to disable this feature.
 		#Default: 20.0
 		#Range: 0.0 ~ 100.0
-		healthScalePerPlayer = 20.0
+		healthScalePerPlayer = 40.0
+
+	#Flaming Skulls
+	[server.flaming_skulls]
+		#The flaming skull explosion size when they collide with blocks.
+		#Default: 5.0
+		#Range: 1.0 ~ 16.0
+		flamingSkullExplosionSize = 7.0
+		#The speed modifier for flaming wither skulls. Higher = faster.
+		#Default: 1.0
+		#Range: 0.5 ~ 8.0
+		flamingSkullSpeedModifier = 1.2
 
 	#Roaring
 	[server.roaring]
