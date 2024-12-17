@@ -6749,6 +6749,12 @@
     },
     "done": true
   },
+  "witherstormmod:main/activate_super_beacon": {
+    "criteria": {
+      "activate_super_beacon": "2024-12-17 20:55:13 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
     "criteria": {
       "has_item": "2024-12-17 20:26:49 +0000"

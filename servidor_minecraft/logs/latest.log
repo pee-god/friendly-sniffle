@@ -388,3 +388,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [17Dec2024 20:54:45.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -9.91254095117165,0.023088109101550458,-1.9985398050521326
 [17Dec2024 20:55:13.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [Beaconator 4000]
 [17Dec2024 20:56:01.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[17Dec2024 20:58:19.004] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ lost connection: Disconnected
+[17Dec2024 20:58:19.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ left the game
+[17Dec2024 20:58:49.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[17Dec2024 21:03:53.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> hate
+[17Dec2024 21:03:58.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> hater de williambogs
+[17Dec2024 21:04:28.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> zzz
