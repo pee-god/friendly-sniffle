@@ -6856,151 +6856,19 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
-    "criteria": {
-      "has_stone": "2024-12-17 19:03:00 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/prismoss": {
-    "criteria": {
-      "has_stone": "2024-12-17 19:03:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-17 19:10:06 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:main/summon_mob_withered_beacon": {
-    "criteria": {
-      "summoned_mob": "2024-12-17 20:45:48 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/maple_fence": {
-    "criteria": {
-      "has_maple_planks": "2024-12-17 21:06:40 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
-    "criteria": {
-      "has_hyssop": "2024-12-17 17:29:14 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/orange_maple_shrub": {
-    "criteria": {
-      "has_orange_maple_sapling": "2024-12-17 20:53:23 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/stone_grass_block": {
-    "criteria": {
-      "has_stone": "2024-12-17 19:03:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
-    "criteria": {
-      "has_oxidized_copper": "2024-12-17 20:30:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-17 18:00:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2024-12-17 19:03:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2024-12-17 19:03:00 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/maple_fence_gate": {
-    "criteria": {
-      "has_maple_planks": "2024-12-17 21:06:40 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/light_gray_dye_from_tassel": {
-    "criteria": {
-      "has_tassel": "2024-12-17 17:37:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2024-12-17 19:03:00 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/maple_button": {
-    "criteria": {
-      "has_maple_planks": "2024-12-17 21:06:40 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/white_dye_from_white_trillium": {
-    "criteria": {
-      "has_white_trillium": "2024-12-17 17:44:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
       "has_log": "2024-12-17 17:27:46 +0000"
     },
     "done": true
   },
-  "netherexp:recipes/quartz/cracked_quartz_bricks": {
-    "criteria": {
-      "has_item": "2024-12-17 19:59:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2024-12-17 19:44:26 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/maple_pressure_plate": {
-    "criteria": {
-      "has_maple_planks": "2024-12-17 21:06:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_button": {
-    "criteria": {
-      "has_stone": "2024-12-17 19:03:00 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
-    "criteria": {
-      "has_log": "2024-12-17 20:53:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
-    "criteria": {
-      "has_stone": "2024-12-17 19:03:00 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/decorations/cherry_branch_from_cherry_log": {
+    "criteria": {
+      "has_log": "2024-12-17 17:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2024-12-17 17:27:46 +0000"
     },
@@ -7012,27 +6880,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
-    "criteria": {
-      "has_oxidized_copper": "2024-12-17 20:30:04 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/pumpkin": {
     "criteria": {
       "has_pumpkin": "2024-12-17 17:29:03 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/silver_birch_branch_from_silver_birch_log": {
-    "criteria": {
-      "has_log": "2024-12-17 20:53:16 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/sugar_rush": {
-    "criteria": {
-      "all_effects": "2024-12-17 19:50:44 +0000"
     },
     "done": true
   },
@@ -7042,21 +6892,93 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+  "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
-      "has_blue_orchid": "2024-12-17 18:25:28 +0000"
+      "has_pumpkin": "2024-12-17 17:29:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
+  "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
     "criteria": {
-      "has_oxidized_copper": "2024-12-17 20:30:04 +0000"
+      "has_hyssop": "2024-12-17 17:29:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather": {
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
-      "has_rabbit_hide": "2024-12-17 18:04:26 +0000"
+      "has_allium": "2024-12-17 17:29:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2024-12-17 17:29:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/magenta_dye_from_bleeding_heart": {
+    "criteria": {
+      "has_bleeding_heart": "2024-12-17 17:30:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/red_dye_from_waratah": {
+    "criteria": {
+      "has_waratah": "2024-12-17 17:32:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2024-12-17 17:36:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/light_gray_dye_from_tassel": {
+    "criteria": {
+      "has_tassel": "2024-12-17 17:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2024-12-17 17:38:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/pink_dye_from_pink_lupine": {
+    "criteria": {
+      "has_pink_lupine": "2024-12-17 17:43:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-12-17 17:43:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/red_dye_from_tsubaki": {
+    "criteria": {
+      "has_tsubaki": "2024-12-17 17:43:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/white_dye_from_white_trillium": {
+    "criteria": {
+      "has_white_trillium": "2024-12-17 17:44:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-17 17:54:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-17 18:00:30 +0000"
     },
     "done": true
   },
@@ -7072,93 +6994,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/maple_wood": {
-    "criteria": {
-      "has_log": "2024-12-17 20:53:09 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/pink_dye_from_pink_lupine": {
-    "criteria": {
-      "has_pink_lupine": "2024-12-17 17:43:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2024-12-17 19:10:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2024-12-17 17:43:33 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/maple_stairs": {
-    "criteria": {
-      "has_maple_planks": "2024-12-17 21:06:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
-    "criteria": {
-      "has_orange_tulip": "2024-12-17 17:29:56 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/red_dye_from_waratah": {
-    "criteria": {
-      "has_waratah": "2024-12-17 17:32:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_peony": {
-    "criteria": {
-      "has_peony": "2024-12-17 17:38:19 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/red_dye_from_tsubaki": {
-    "criteria": {
-      "has_tsubaki": "2024-12-17 17:43:40 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/maple_trapdoor": {
-    "criteria": {
-      "has_maple_planks": "2024-12-17 21:06:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_stone": "2024-12-17 19:03:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
-    "criteria": {
-      "has_lilac": "2024-12-17 18:04:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2024-12-17 18:00:30 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/maple_sign": {
-    "criteria": {
-      "has_maple_planks": "2024-12-17 21:06:40 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/oak_shrub": {
-    "criteria": {
-      "has_oak_sapling": "2024-12-17 17:36:29 +0000"
     },
     "done": true
   },
@@ -7174,99 +7012,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper": {
-    "criteria": {
-      "has_oxidized_copper": "2024-12-17 20:30:04 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/magenta_dye_from_bleeding_heart": {
-    "criteria": {
-      "has_bleeding_heart": "2024-12-17 17:30:00 +0000"
-    },
-    "done": true
-  },
-  "cwsplus:on_hit": {
-    "criteria": {
-      "not_target": "2024-12-17 21:04:58 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2024-12-17 18:00:30 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/maple_slab": {
-    "criteria": {
-      "has_maple_planks": "2024-12-17 21:06:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2024-12-17 17:29:03 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/maple_planks": {
-    "criteria": {
-      "has_logs": "2024-12-17 20:53:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/trapped_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2024-12-17 17:54:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stonecutter": {
-    "criteria": {
-      "has_stone": "2024-12-17 19:03:00 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/maple_door": {
-    "criteria": {
-      "has_maple_planks": "2024-12-17 21:06:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone": {
-    "criteria": {
-      "has_stone": "2024-12-17 19:03:00 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_voodoo_poppet": {
-    "criteria": {
-      "has_voodoo_poppet": "2024-12-17 18:07:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-17 19:10:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_wood": {
-    "criteria": {
-      "has_log": "2024-12-17 17:27:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2024-12-17 18:31:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-17 19:10:06 +0000"
     },
     "done": true
   },
@@ -7276,9 +7024,111 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
-      "has_allium": "2024-12-17 17:29:22 +0000"
+      "has_stone_bricks": "2024-12-17 18:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-12-17 18:04:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-12-17 18:04:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2024-12-17 18:07:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2024-12-17 18:07:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2024-12-17 18:25:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-17 18:31:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-12-17 19:03:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/prismoss": {
+    "criteria": {
+      "has_stone": "2024-12-17 19:03:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/stone_grass_block": {
+    "criteria": {
+      "has_stone": "2024-12-17 19:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-17 19:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-12-17 19:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-17 19:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-12-17 19:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-12-17 19:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-12-17 19:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-12-17 19:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-12-17 19:03:00 +0000"
     },
     "done": true
   },
@@ -7300,18 +7150,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
-    "criteria": {
-      "has_oxidized_copper": "2024-12-17 20:30:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-17 18:00:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-17 19:03:00 +0000"
@@ -7324,21 +7162,45 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/red_maple_shrub": {
-    "criteria": {
-      "has_red_maple_sapling": "2024-12-17 21:00:41 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/silver_birch_wood": {
-    "criteria": {
-      "has_log": "2024-12-17 20:53:16 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/building_blocks/mossy_stone": {
     "criteria": {
       "has_stone": "2024-12-17 19:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-17 19:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-17 19:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-17 19:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-17 19:10:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-17 19:44:26 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sugar_rush": {
+    "criteria": {
+      "all_effects": "2024-12-17 19:50:44 +0000"
     },
     "done": true
   },
@@ -7348,15 +7210,147 @@
     },
     "done": true
   },
+  "netherexp:recipes/quartz/cracked_quartz_bricks": {
+    "criteria": {
+      "has_item": "2024-12-17 19:59:59 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/quartz/chiseled_quartz_pillar": {
     "criteria": {
       "has_item": "2024-12-17 20:00:07 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/enchant_voodoo_poppet": {
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
     "criteria": {
-      "has_enchanted_voodoo_poppet": "2024-12-17 18:07:20 +0000"
+      "has_oxidized_copper": "2024-12-17 20:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2024-12-17 20:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2024-12-17 20:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper": {
+    "criteria": {
+      "has_oxidized_copper": "2024-12-17 20:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper": "2024-12-17 20:30:04 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:main/summon_mob_withered_beacon": {
+    "criteria": {
+      "summoned_mob": "2024-12-17 20:45:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
+    "criteria": {
+      "has_log": "2024-12-17 20:53:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2024-12-17 20:53:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2024-12-17 20:53:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/silver_birch_branch_from_silver_birch_log": {
+    "criteria": {
+      "has_log": "2024-12-17 20:53:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/silver_birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-17 20:53:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/orange_maple_shrub": {
+    "criteria": {
+      "has_orange_maple_sapling": "2024-12-17 20:53:23 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/red_maple_shrub": {
+    "criteria": {
+      "has_red_maple_sapling": "2024-12-17 21:00:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_maple_planks": "2024-12-17 21:06:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_maple_planks": "2024-12-17 21:06:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_maple_planks": "2024-12-17 21:06:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_maple_planks": "2024-12-17 21:06:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_maple_planks": "2024-12-17 21:06:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_maple_planks": "2024-12-17 21:06:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_maple_planks": "2024-12-17 21:06:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_maple_planks": "2024-12-17 21:06:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_maple_planks": "2024-12-17 21:06:40 +0000"
     },
     "done": true
   },

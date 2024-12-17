@@ -398,3 +398,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [17Dec2024 21:16:43.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s was slain by GabrielCacao
 [17Dec2024 21:16:43.455] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for quipit0s with unique ID travelersbackpack.blaze_17.12.2024-21.16.43.dat
 [17Dec2024 21:16:43.477] [Server thread/INFO] [tombstone/]: The player quipit0s has successfully been saved
+[17Dec2024 21:17:29.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -10.071313424760774,0.8980881091015505,0.035504534459050774
+[17Dec2024 21:17:29.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15209ms or 304 ticks behind
+[17Dec2024 21:24:39.898] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao lost connection: Disconnected
+[17Dec2024 21:24:39.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao left the game
+[17Dec2024 21:24:57.907] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GabrielCacao[/127.146.234.60:33481] logged in with entity id 68646 at (-718.9948256879838, 30.213599712228923, -206.69999998807907)
+[17Dec2024 21:24:57.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao joined the game
+[17Dec2024 21:24:58.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[17Dec2024 21:33:56.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> cumadera
+[17Dec2024 21:33:59.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> cumeadera
+[17Dec2024 21:35:02.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> aldeano sexo
