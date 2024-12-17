@@ -7355,15 +7355,33 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/combat/medium_bolt_quiver_smithing": {
+    "criteria": {
+      "has_medium_quiver_brace": "2024-12-17 22:47:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2024-12-17 22:02:09 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/combat/large_bolt_quiver_smithing": {
+    "criteria": {
+      "has_large_quiver_brace": "2024-12-17 22:46:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2024-12-17 22:02:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/large_arrow_quiver_smithing": {
+    "criteria": {
+      "has_large_quiver_brace": "2024-12-17 22:46:59 +0000"
     },
     "done": true
   },
@@ -7376,6 +7394,12 @@
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2024-12-17 22:02:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/medium_arrow_quiver_smithing": {
+    "criteria": {
+      "has_medium_quiver_brace": "2024-12-17 22:47:03 +0000"
     },
     "done": true
   },
@@ -7400,6 +7424,12 @@
   "minecraft:recipes/redstone/cherry_button": {
     "criteria": {
       "has_planks": "2024-12-17 22:02:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:upgrade_quiver": {
+    "criteria": {
+      "has_upgraded_quiver": "2024-12-17 22:47:47 +0000"
     },
     "done": true
   },
