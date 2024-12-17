@@ -6172,6 +6172,12 @@
     },
     "done": true
   },
+  "nethers_exoticism:rambutan_adv": {
+    "criteria": {
+      "rambutan_adv": "2024-12-17 00:52:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-17 00:39:08 +0000"
