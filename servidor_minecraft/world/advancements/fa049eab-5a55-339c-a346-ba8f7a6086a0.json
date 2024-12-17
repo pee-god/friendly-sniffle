@@ -6589,6 +6589,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/pink_dye_from_glistering_bloom": {
+    "criteria": {
+      "has_glistering_bloom": "2024-12-17 00:44:42 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/soul_slate/wall": {
     "criteria": {
       "has_planks": "2024-12-16 23:55:10 +0000"

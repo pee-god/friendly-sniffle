@@ -102,3 +102,18 @@
 [17Dec2024 00:35:22.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> nederraca
 [17Dec2024 00:35:27.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> neteraja
 [17Dec2024 00:37:57.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2134ms or 42 ticks behind
+[17Dec2024 00:39:42.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[17Dec2024 00:46:51.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Enchanter]
+[17Dec2024 00:47:19.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s was doomed to fall
+[17Dec2024 00:47:19.366] [Server thread/INFO] [tombstone/]: The player quipit0s has successfully been saved
+[17Dec2024 00:47:23.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[17Dec2024 00:47:42.147] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3608ms or 72 ticks behind
+[17Dec2024 00:48:01.329] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4190ms or 83 ticks behind
+[17Dec2024 00:48:05.260] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6ebe575b[id=<null>,name=Polluda,properties={},legacy=false] (/127.213.78.161:42043) lost connection: Disconnected
+[17Dec2024 00:48:22.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6146ms or 122 ticks behind
+[17Dec2024 00:48:34.092] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2aff3a4[id=<null>,name=Polluda,properties={},legacy=false] (/127.213.78.161:49053) lost connection: Disconnected
+[17Dec2024 00:48:41.409] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4021ms or 80 ticks behind
+[17Dec2024 00:48:59.614] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3225ms or 64 ticks behind
+[17Dec2024 00:49:04.180] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6f7b1ded[id=<null>,name=Polluda,properties={},legacy=false] (/127.213.78.161:43363) lost connection: Disconnected
+[17Dec2024 00:49:18.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3705ms or 74 ticks behind
+[17Dec2024 00:49:38.357] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5068ms or 101 ticks behind
