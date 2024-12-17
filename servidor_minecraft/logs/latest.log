@@ -166,3 +166,52 @@
 [17Dec2024 00:59:25.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6010ms or 120 ticks behind
 [17Dec2024 00:59:46.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6201ms or 124 ticks behind
 [17Dec2024 01:00:07.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6307ms or 126 ticks behind
+[17Dec2024 01:00:29.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6511ms or 130 ticks behind
+[17Dec2024 01:00:50.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5987ms or 119 ticks behind
+[17Dec2024 01:00:51.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has completed the challenge [Return to Sender]
+[17Dec2024 01:01:02.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [Take Aim]
+[17Dec2024 01:01:12.034] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6945ms or 138 ticks behind
+[17Dec2024 01:01:34.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7760ms or 155 ticks behind
+[17Dec2024 01:01:58.642] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8903ms or 178 ticks behind
+[17Dec2024 01:02:22.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9067ms or 181 ticks behind
+[17Dec2024 01:02:23.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Polluda has made the advancement [Monster Hunter]
+[17Dec2024 01:02:39.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Creative Mode]
+[17Dec2024 01:02:44.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[17Dec2024 01:02:48.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10966ms or 219 ticks behind
+[17Dec2024 01:03:05.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Polluda has made the advancement [A Strange Grave Dust]
+[17Dec2024 01:03:10.608] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6970ms or 139 ticks behind
+[17Dec2024 01:03:33.060] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7471ms or 149 ticks behind
+[17Dec2024 01:03:54.329] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6291ms or 125 ticks behind
+[17Dec2024 01:04:14.472] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5183ms or 103 ticks behind
+[17Dec2024 01:04:17.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GamerRCJ]
+[17Dec2024 01:04:26.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Polluda tried to swim in lava
+[17Dec2024 01:04:26.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Polluda has made the advancement [Your First Grave]
+[17Dec2024 01:04:26.455] [Server thread/INFO] [tombstone/]: The player Polluda has successfully been saved
+[17Dec2024 01:04:30.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Polluda has made the advancement [The Most Useful Key]
+[17Dec2024 01:04:34.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5385ms or 107 ticks behind
+[17Dec2024 01:04:35.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Polluda has made the advancement [Knowledge of Death]
+[17Dec2024 01:04:35.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Polluda has reached the goal [A Fast Comeback]
+[17Dec2024 01:04:52.460] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Polluda lost connection: Disconnected
+[17Dec2024 01:04:52.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Polluda left the game
+[17Dec2024 01:04:54.947] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5158ms or 103 ticks behind
+[17Dec2024 01:05:13.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3148ms or 62 ticks behind
+[17Dec2024 01:05:31.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3174ms or 63 ticks behind
+[17Dec2024 01:05:49.352] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3164ms or 63 ticks behind
+[17Dec2024 01:06:07.746] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3408ms or 68 ticks behind
+[17Dec2024 01:06:26.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3378ms or 67 ticks behind
+[17Dec2024 01:06:43.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Creative Mode]
+[17Dec2024 01:06:45.668] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4579ms or 91 ticks behind
+[17Dec2024 01:07:00.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Set own game mode to Survival Mode]
+[17Dec2024 01:07:04.969] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4331ms or 86 ticks behind
+[17Dec2024 01:07:24.969] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5031ms or 100 ticks behind
+[17Dec2024 01:07:45.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5542ms or 110 ticks behind
+[17Dec2024 01:08:03.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GamerRCJ]
+[17Dec2024 01:08:05.763] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5324ms or 106 ticks behind
+[17Dec2024 01:08:25.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5240ms or 104 ticks behind
+[17Dec2024 01:08:46.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5465ms or 109 ticks behind
+[17Dec2024 01:09:06.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5582ms or 111 ticks behind
+[17Dec2024 01:09:19.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! -4.119779864060774,-6.024424088213692,6.848803634692018
+[17Dec2024 01:09:30.869] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8931ms or 178 ticks behind
+[17Dec2024 01:09:38.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Eat with One Hand]
+[17Dec2024 01:09:52.029] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6190ms or 123 ticks behind
+[17Dec2024 01:10:13.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6242ms or 124 ticks behind
