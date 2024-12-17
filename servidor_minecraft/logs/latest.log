@@ -383,3 +383,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [17Dec2024 20:45:48.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [Infection Generator]
 [17Dec2024 20:46:01.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
 [17Dec2024 20:46:24.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has reached the goal [Infection Generator]
+[17Dec2024 20:47:35.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> tmr
+[17Dec2024 20:49:45.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ moved too quickly! -0.48888151469873264,-0.02442408821369213,10.125565800572986
+[17Dec2024 20:54:45.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -9.91254095117165,0.023088109101550458,-1.9985398050521326
+[17Dec2024 20:55:13.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has reached the goal [Beaconator 4000]
+[17Dec2024 20:56:01.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
