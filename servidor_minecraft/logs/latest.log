@@ -357,3 +357,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [17Dec2024 19:59:45.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! -10.099941220277287,0.023088109101550458,-1.5348210788797587
 [17Dec2024 20:04:24.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
 [17Dec2024 20:05:21.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 10.097014302509706,0.0,0.10701888099538337
+[17Dec2024 20:05:56.516] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GamerRCJ[/127.122.55.229:39383] logged in with entity id 44425 at (-5581.564483397593, 64.0, -2179.8690131042777)
+[17Dec2024 20:05:56.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ joined the game
+[17Dec2024 20:06:05.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GamerRCJ> ola soy leo >:)
+[17Dec2024 20:06:19.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> ban, por gey
+[17Dec2024 20:06:23.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GamerRCJ> ohno
+[17Dec2024 20:06:26.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> ./kik
+[17Dec2024 20:09:45.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ moved too quickly! -3.440795385346064,1.2491870787446828,9.467590070114511
+[17Dec2024 20:11:52.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has completed the challenge [Overkill]
