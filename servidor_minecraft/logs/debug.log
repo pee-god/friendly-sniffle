@@ -6031,3 +6031,160 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [17Dec2024 20:26:08.766] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
 [17Dec2024 20:26:09.771] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [17Dec2024 20:26:09.773] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[17Dec2024 20:26:11.365] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:26:11.367] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[17Dec2024 20:26:12.466] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:26:12.469] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[17Dec2024 20:26:14.864] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:26:14.867] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[17Dec2024 20:26:15.609] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:26:15.611] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[17Dec2024 20:26:18.267] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:26:18.269] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[17Dec2024 20:26:21.063] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:26:21.868] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:26:21.870] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[17Dec2024 20:26:22.572] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:26:22.574] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[17Dec2024 20:26:24.063] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:26:31.801] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:26:34.102] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:26:36.008] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:26:36.050] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:26:36.102] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:26:36.159] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:26:36.202] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:26:36.254] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:26:36.301] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:26:36.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
+[17Dec2024 20:26:37.200] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:26:39.010] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:26:46.255] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:26:48.405] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:26:53.854] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:26:53.903] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:26:53.954] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:26:54.006] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:26:54.075] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:26:58.000] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:26:58.049] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:26:58.098] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:26:58.159] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:26:58.199] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:26:58.251] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:26:58.299] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:26:58.350] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:26:58.400] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:26:58.452] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:26:58.501] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:26:58.550] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:26:58.599] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:26:58.648] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:26:58.704] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:26:58.750] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:26:58.802] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:02.753] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:02.800] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:02.851] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:02.901] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:02.952] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:03.004] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:03.050] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:03.101] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:03.153] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:03.199] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:38.705] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:38.758] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:38.806] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:38.854] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:38.906] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:38.956] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:39.002] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:39.051] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:39.104] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:39.157] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:39.213] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:39.256] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:39.302] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:39.351] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:39.400] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:39.851] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:39.900] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:39.951] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:40.002] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:40.052] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:40.099] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:40.099] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:27:40.699] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:40.752] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:40.800] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:40.848] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:40.901] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:40.951] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:41.001] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:41.050] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:41.101] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:41.152] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:41.202] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:41.261] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:41.299] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:41.353] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:41.399] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:41.450] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:41.502] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:41.551] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:41.599] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:41.650] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:41.700] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:41.757] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:41.800] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:41.850] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:41.900] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:41.955] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:42.007] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:42.053] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:42.100] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:42.154] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:42.198] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:42.255] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:42.508] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:42.551] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:42.599] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:42.651] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:27:43.255] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:27:44.514] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:29:45.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 20:29:45.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 20:29:45.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -5.12671091471293,-1.8315999820470807,8.553079976255503
+[17Dec2024 20:31:56.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [What a Deal!]
+[17Dec2024 20:32:20.901] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[17Dec2024 20:32:24.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> eee
+[17Dec2024 20:32:36.909] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in witherstormmod:bowels
+[17Dec2024 20:32:41.251] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:32:41.357] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:32:41.457] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 20:32:42.020] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:32:46.571] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:32:47.807] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:32:49.370] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:33:04.106] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:33:05.101] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:33:05.154] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:33:05.259] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:33:06.107] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:33:06.852] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:33:07.100] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:33:07.205] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:33:07.301] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:33:07.452] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:34:45.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 20:34:45.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 20:35:34.900] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in witherstormmod:bowels
+[17Dec2024 20:35:50.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> estoy desconectado
+[17Dec2024 20:36:01.900] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:36:02.852] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:36:11.506] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:36:13.899] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:36:15.199] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:36:15.251] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 20:36:21.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> ola moloch

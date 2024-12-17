@@ -4478,6 +4478,12 @@
     },
     "done": true
   },
+  "cwsplus:on_hit": {
+    "criteria": {
+      "not_target": "2024-12-17 20:32:38 +0000"
+    },
+    "done": false
+  },
   "witherstormmod:recipes/misc/super_beacon": {
     "criteria": {
       "has_withered_nether_star": "2024-12-17 02:59:07 +0000"
@@ -4507,43 +4513,6 @@
       "has_enchanted_voodoo_poppet": "2024-12-17 02:59:07 +0000"
     },
     "done": true
-  },
-  "cwsplus:on_hurt": {
-    "criteria": {
-      "nbit8": "2024-12-17 20:24:21 +0000",
-      "nbit9": "2024-12-17 20:24:21 +0000",
-      "nbit15": "2024-12-17 20:24:21 +0000",
-      "nbit3": "2024-12-17 20:24:21 +0000",
-      "nbit4": "2024-12-17 20:24:21 +0000",
-      "nbit14": "2024-12-17 20:24:21 +0000",
-      "nbit5": "2024-12-17 20:24:21 +0000",
-      "nbit13": "2024-12-17 20:24:21 +0000",
-      "nbit6": "2024-12-17 20:24:21 +0000",
-      "nbit12": "2024-12-17 20:24:21 +0000",
-      "nbit19": "2024-12-17 20:24:21 +0000",
-      "nbit0": "2024-12-17 20:24:21 +0000",
-      "nbit18": "2024-12-17 20:24:21 +0000",
-      "nbit17": "2024-12-17 20:24:21 +0000",
-      "nbit16": "2024-12-17 20:24:21 +0000",
-      "nbit22": "2024-12-17 20:24:21 +0000",
-      "nbit21": "2024-12-17 20:24:21 +0000",
-      "nbit20": "2024-12-17 20:24:21 +0000",
-      "nbit26": "2024-12-17 20:24:21 +0000",
-      "nbit25": "2024-12-17 20:24:21 +0000",
-      "nbit24": "2024-12-17 20:24:21 +0000",
-      "nbit23": "2024-12-17 20:24:21 +0000",
-      "nbit29": "2024-12-17 20:24:21 +0000",
-      "nbit28": "2024-12-17 20:24:21 +0000",
-      "nbit27": "2024-12-17 20:24:21 +0000",
-      "nbit31": "2024-12-17 20:24:21 +0000",
-      "nbit30": "2024-12-17 20:24:21 +0000",
-      "bit7": "2024-12-17 20:24:21 +0000",
-      "bit1": "2024-12-17 20:24:21 +0000",
-      "bit2": "2024-12-17 20:24:21 +0000",
-      "nbit11": "2024-12-17 20:24:21 +0000",
-      "nbit10": "2024-12-17 20:24:21 +0000"
-    },
-    "done": false
   },
   "tombstone:adventure/chain_death": {
     "criteria": {
@@ -4605,9 +4574,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/spruce_shrub": {
+    "criteria": {
+      "has_spruce_sapling": "2024-12-17 20:34:32 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/misc/raw_silver_block": {
     "criteria": {
       "has_raw_silver": "2024-12-17 20:15:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
+    "criteria": {
+      "has_log": "2024-12-17 20:30:19 +0000"
     },
     "done": true
   },
@@ -4620,6 +4601,12 @@
   "galosphere:recipes/misc/silver_ingot_from_smelting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2024-12-17 20:15:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-17 20:31:56 +0000"
     },
     "done": true
   },

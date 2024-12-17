@@ -370,3 +370,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [17Dec2024 20:23:39.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> 45qwerad
 [17Dec2024 20:23:43.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> 45qwerad
 [17Dec2024 20:23:43.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GamerRCJ> kaslkjhfasjlkfas
+[17Dec2024 20:26:36.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
+[17Dec2024 20:29:45.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -5.12671091471293,-1.8315999820470807,8.553079976255503
+[17Dec2024 20:31:56.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has made the advancement [What a Deal!]
+[17Dec2024 20:32:24.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> eee
+[17Dec2024 20:35:50.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> estoy desconectado
+[17Dec2024 20:36:21.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> ola moloch
