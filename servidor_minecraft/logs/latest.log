@@ -394,3 +394,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [17Dec2024 21:03:53.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> hate
 [17Dec2024 21:03:58.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> hater de williambogs
 [17Dec2024 21:04:28.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> zzz
+[17Dec2024 21:14:43.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> XDDDDDDDDDDDDDDD
+[17Dec2024 21:16:43.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s was slain by GabrielCacao
+[17Dec2024 21:16:43.455] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for quipit0s with unique ID travelersbackpack.blaze_17.12.2024-21.16.43.dat
+[17Dec2024 21:16:43.477] [Server thread/INFO] [tombstone/]: The player quipit0s has successfully been saved
