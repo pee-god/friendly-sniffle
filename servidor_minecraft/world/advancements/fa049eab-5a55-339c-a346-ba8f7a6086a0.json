@@ -6860,6 +6860,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-17 18:00:30 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/light_gray_dye_from_tassel": {
     "criteria": {
       "has_tassel": "2024-12-17 17:37:41 +0000"
@@ -6902,6 +6908,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-12-17 18:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-17 18:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-17 18:00:30 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/pink_dye_from_pink_lupine": {
     "criteria": {
       "has_pink_lupine": "2024-12-17 17:43:29 +0000"
@@ -6938,15 +6962,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-12-17 18:04:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-17 18:00:30 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/oak_shrub": {
     "criteria": {
       "has_oak_sapling": "2024-12-17 17:36:29 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-17 18:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-17 18:00:30 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/magenta_dye_from_bleeding_heart": {
     "criteria": {
       "has_bleeding_heart": "2024-12-17 17:30:00 +0000"
+    },
+    "done": true
+  },
+  "cwsplus:on_hit": {
+    "criteria": {
+      "not_target": "2024-12-17 18:06:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-17 18:00:30 +0000"
     },
     "done": true
   },
@@ -6962,15 +7022,39 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2024-12-17 18:07:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2024-12-17 17:27:46 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-17 18:00:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2024-12-17 17:29:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-17 18:00:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2024-12-17 18:07:20 +0000"
     },
     "done": true
   },

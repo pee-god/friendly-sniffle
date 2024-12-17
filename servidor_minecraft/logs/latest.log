@@ -303,3 +303,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [17Dec2024 17:59:43.210] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/16630, l='ServerLevel[world]', x=-6481.83, y=73.00, z=-2252.83] died, message: 'Fletcher was slain by Zombie'
 [17Dec2024 18:00:12.407] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16752, l='ServerLevel[world]', x=-6522.07, y=75.60, z=-2245.53] died, message: 'Villager was slain by Zombie'
 [17Dec2024 18:02:04.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has completed the challenge [Overkill]
+[17Dec2024 18:04:45.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 3.3653703570389553,0.8322033533667508,-9.60367016580858
+[17Dec2024 18:05:01.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[17Dec2024 18:07:20.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Not even afraid of death]
+[17Dec2024 18:07:20.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Back to childhood]
+[17Dec2024 18:07:30.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> zzz
+[17Dec2024 18:07:34.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> zz
+[17Dec2024 18:07:34.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> xzxx
