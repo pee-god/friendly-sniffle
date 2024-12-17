@@ -365,3 +365,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [17Dec2024 20:06:26.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> ./kik
 [17Dec2024 20:09:45.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ moved too quickly! -3.440795385346064,1.2491870787446828,9.467590070114511
 [17Dec2024 20:11:52.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has completed the challenge [Overkill]
+[17Dec2024 20:16:34.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ has reached the goal [Bone Crusher]
+[17Dec2024 20:21:38.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
+[17Dec2024 20:23:39.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> 45qwerad
+[17Dec2024 20:23:43.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> 45qwerad
+[17Dec2024 20:23:43.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GamerRCJ> kaslkjhfasjlkfas
