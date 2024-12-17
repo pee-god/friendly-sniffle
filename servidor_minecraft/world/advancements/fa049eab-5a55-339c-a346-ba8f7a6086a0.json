@@ -10,6 +10,7 @@
       "minecraft:taiga": "2024-11-16 07:26:03 +0000",
       "minecraft:frozen_river": "2024-11-16 06:29:33 +0000",
       "minecraft:sunflower_plains": "2024-11-16 20:56:50 +0000",
+      "minecraft:cherry_grove": "2024-12-17 03:19:40 +0000",
       "minecraft:birch_forest": "2024-11-16 08:00:00 +0000",
       "minecraft:badlands": "2024-11-16 19:56:15 +0000",
       "minecraft:dark_forest": "2024-11-16 08:03:18 +0000",
@@ -4513,6 +4514,7 @@
       "scorching_caves": "2024-12-09 01:36:33 +0000",
       "rocky_meadow": "2024-12-09 01:02:46 +0000",
       "mycotoxic_undergrowth": "2024-12-15 01:34:56 +0000",
+      "ochard": "2024-12-17 01:52:29 +0000",
       "highland_fields": "2024-12-09 03:25:00 +0000",
       "frozen_pine_taiga": "2024-12-08 03:36:03 +0000",
       "maple_forest": "2024-12-09 00:54:33 +0000",
@@ -4540,6 +4542,7 @@
       "poppy_fields": "2024-12-09 03:36:51 +0000",
       "grassy_beach": "2024-12-09 01:06:58 +0000",
       "rocky_meadow": "2024-12-09 01:02:46 +0000",
+      "ochard": "2024-12-17 01:52:29 +0000",
       "highland_fields": "2024-12-09 03:25:00 +0000",
       "frozen_pine_taiga": "2024-12-08 03:36:03 +0000",
       "maple_forest": "2024-12-09 00:54:33 +0000",
@@ -6372,33 +6375,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-17 00:19:44 +0000"
-    },
-    "done": true
-  },
-  "netherexp:nether/ghost_mucus": {
-    "criteria": {
-      "has_item": "2024-12-16 23:53:23 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/torch_from_fossil_fuel": {
-    "criteria": {
-      "has_item": "2024-12-17 01:27:58 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
     "criteria": {
       "has_bone_block": "2024-12-16 23:28:38 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/ivy/weeping_ivy": {
-    "criteria": {
-      "has_item": "2024-12-16 23:50:59 +0000"
     },
     "done": true
   },
@@ -6408,9 +6387,117 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-16 23:28:38 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/stacked_bones": {
+    "criteria": {
+      "has_item": "2024-12-16 23:28:38 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
+    "criteria": {
+      "has_item": "2024-12-16 23:28:38 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/ivy/weeping_ivy": {
+    "criteria": {
+      "has_item": "2024-12-16 23:50:59 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/soul_sand_valley": {
+    "criteria": {
+      "condition": "2024-12-16 23:52:11 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_soil_layer": {
+    "criteria": {
+      "has_item": "2024-12-16 23:52:23 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/ghost_mucus": {
+    "criteria": {
+      "has_item": "2024-12-16 23:53:23 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/overkill": {
+    "criteria": {
+      "overkill": "2024-12-16 23:53:58 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/soul_slate/jagged": {
     "criteria": {
       "has_planks": "2024-12-16 23:55:10 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/pale": {
+    "criteria": {
+      "has_planks": "2024-12-16 23:55:10 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/slab": {
+    "criteria": {
+      "has_planks": "2024-12-16 23:55:10 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/stairs": {
+    "criteria": {
+      "has_planks": "2024-12-16 23:55:10 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/bricks_from_etched": {
+    "criteria": {
+      "has_item": "2024-12-16 23:55:10 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/bricks": {
+    "criteria": {
+      "has_item": "2024-12-16 23:55:10 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/wall": {
+    "criteria": {
+      "has_planks": "2024-12-16 23:55:10 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/gargoyle_statue": {
+    "criteria": {
+      "has_item": "2024-12-16 23:55:38 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/ecto_soul_sand": {
+    "criteria": {
+      "has_item": "2024-12-16 23:55:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-17 00:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-17 00:19:44 +0000"
     },
     "done": true
   },
@@ -6426,45 +6513,9 @@
     },
     "done": true
   },
-  "netherexp:nether/soul_sand_valley": {
-    "criteria": {
-      "condition": "2024-12-16 23:52:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2024-12-16 23:28:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-17 00:19:44 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/decorations/amethyst_lamp": {
-    "criteria": {
-      "has_glowstone": "2024-12-17 00:22:42 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/soul_slate/pale": {
-    "criteria": {
-      "has_planks": "2024-12-16 23:55:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_treasure": "2024-12-17 00:21:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_lamp": {
-    "criteria": {
-      "has_glowstone": "2024-12-17 00:22:42 +0000"
     },
     "done": true
   },
@@ -6474,51 +6525,9 @@
     },
     "done": true
   },
-  "netherexp:recipes/bone_blocks/stacked_bones": {
-    "criteria": {
-      "has_item": "2024-12-16 23:28:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-17 00:19:44 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/soul_slate/slab": {
-    "criteria": {
-      "has_planks": "2024-12-16 23:55:10 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/cooked_hogham": {
-    "criteria": {
-      "has_item": "2024-12-17 01:05:26 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/soul_slate/stairs": {
-    "criteria": {
-      "has_planks": "2024-12-16 23:55:10 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/brown_dye_from_fossil_fuel": {
-    "criteria": {
-      "has_item": "2024-12-17 01:27:58 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/soul_slate/bricks_from_etched": {
-    "criteria": {
-      "has_item": "2024-12-16 23:55:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2024-12-17 00:22:42 +0000"
     },
     "done": true
   },
@@ -6528,69 +6537,9 @@
     },
     "done": true
   },
-  "galosphere:recipes/decorations/lumiere_lamp": {
-    "criteria": {
-      "has_glowstone": "2024-12-17 00:22:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2024-12-17 00:21:51 +0000"
-    },
-    "done": true
-  },
   "netherexp:recipes/blackstone/twisting": {
     "criteria": {
       "has_item": "2024-12-17 00:19:44 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/soul_slate/bricks": {
-    "criteria": {
-      "has_item": "2024-12-16 23:55:10 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
-    "criteria": {
-      "has_item": "2024-12-16 23:28:38 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/sanctum/gargoyle_statue": {
-    "criteria": {
-      "has_item": "2024-12-16 23:55:38 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/pink_dye_from_glistering_bloom": {
-    "criteria": {
-      "has_glistering_bloom": "2024-12-17 00:44:42 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/soul_slate/wall": {
-    "criteria": {
-      "has_planks": "2024-12-16 23:55:10 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_tablet": {
-    "criteria": {
-      "cave_tablet": "2024-12-17 00:27:10 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/soul_soil_layer": {
-    "criteria": {
-      "has_item": "2024-12-16 23:52:23 +0000"
-    },
-    "done": true
-  },
-  "netherexp:nether/overkill": {
-    "criteria": {
-      "overkill": "2024-12-16 23:53:58 +0000"
     },
     "done": true
   },
@@ -6600,21 +6549,303 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2024-12-17 00:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-12-17 00:21:51 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/amethyst_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-17 00:22:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-17 00:22:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-17 00:22:42 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/lumiere_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-17 00:22:42 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/magma_cube": {
     "criteria": {
       "has_magma_cream": "2024-12-17 00:22:42 +0000"
     },
     "done": true
   },
-  "minecraft:nether/find_bastion": {
+  "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
-      "bastion": "2024-12-17 00:19:14 +0000"
+      "cave_tablet": "2024-12-17 00:27:10 +0000"
     },
     "done": true
   },
-  "netherexp:recipes/misc/ecto_soul_sand": {
+  "regions_unexplored:recipes/misc/pink_dye_from_glistering_bloom": {
     "criteria": {
-      "has_item": "2024-12-16 23:55:38 +0000"
+      "has_glistering_bloom": "2024-12-17 00:44:42 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/cooked_hogham": {
+    "criteria": {
+      "has_item": "2024-12-17 01:05:26 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/torch_from_fossil_fuel": {
+    "criteria": {
+      "has_item": "2024-12-17 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/brown_dye_from_fossil_fuel": {
+    "criteria": {
+      "has_item": "2024-12-17 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-12-17 03:36:03 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:main/escape_wither_storm": {
+    "criteria": {
+      "escape_wither_storm": "2024-12-17 02:00:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_shrub": {
+    "criteria": {
+      "has_spruce_sapling": "2024-12-17 03:24:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
+    "criteria": {
+      "has_log": "2024-12-17 03:24:12 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/building_blocks/tainted_planks": {
+    "criteria": {
+      "has_logs": "2024-12-17 02:45:39 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:main/belly_of_the_beast": {
+    "criteria": {
+      "enter_bowels": "2024-12-17 02:05:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/birch_shrub": {
+    "criteria": {
+      "has_birch_sapling": "2024-12-17 03:04:24 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/decorations/tainted_cobblestone_slab": {
+    "criteria": {
+      "has_tainted_cobblestone": "2024-12-17 02:11:31 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/redstone/withered_phlegm_block": {
+    "criteria": {
+      "has_tainted_dust": "2024-12-17 02:09:18 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/redstone/tainted_pressure_plate": {
+    "criteria": {
+      "has_tainted_planks": "2024-12-17 02:18:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
+    "criteria": {
+      "has_log": "2024-12-17 03:23:57 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/building_blocks/tainted_stairs": {
+    "criteria": {
+      "has_tainted_planks": "2024-12-17 02:18:51 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/building_blocks/tainted_sandstone": {
+    "criteria": {
+      "has_tainted_sand": "2024-12-17 02:11:30 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/decorations/tainted_torch": {
+    "criteria": {
+      "has_tainted_dust": "2024-12-17 02:09:18 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/redstone/tainted_fence_gate": {
+    "criteria": {
+      "has_tainted_planks": "2024-12-17 02:18:51 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/decorations/tainted_slab": {
+    "criteria": {
+      "has_tainted_planks": "2024-12-17 02:18:51 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/decorations/tainted_cobblestone_slab_stonecutting": {
+    "criteria": {
+      "has_tainted_cobblestone": "2024-12-17 02:11:31 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/redstone/tainted_door": {
+    "criteria": {
+      "has_tainted_planks": "2024-12-17 02:18:51 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/building_blocks/tainted_dust_block": {
+    "criteria": {
+      "has_tainted_dust": "2024-12-17 02:09:18 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/decorations/tainted_cobblestone_wall": {
+    "criteria": {
+      "has_tainted_cobblestone": "2024-12-17 02:11:31 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/decorations/tainted_fence": {
+    "criteria": {
+      "has_tainted_planks": "2024-12-17 02:18:51 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/redstone/tainted_button": {
+    "criteria": {
+      "has_tainted_planks": "2024-12-17 02:18:51 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/misc/super_beacon": {
+    "criteria": {
+      "has_withered_nether_star": "2024-12-17 02:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2024-12-17 03:39:20 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/building_blocks/tainted_wood": {
+    "criteria": {
+      "has_tainted_log": "2024-12-17 02:45:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-17 03:24:12 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:main/wither_storm_defeated": {
+    "criteria": {
+      "obtain_withered_nether_star": "2024-12-17 02:59:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
+    "criteria": {
+      "has_log": "2024-12-17 03:01:55 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/redstone/tainted_trapdoor": {
+    "criteria": {
+      "has_tainted_planks": "2024-12-17 02:18:51 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2024-12-17 03:55:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-17 03:24:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/dark_oak_shrub": {
+    "criteria": {
+      "has_dark_oak_sapling": "2024-12-17 03:24:33 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/decorations/tainted_glass": {
+    "criteria": {
+      "has_tainted_sand": "2024-12-17 02:11:30 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/building_blocks/tainted_stone": {
+    "criteria": {
+      "has_tainted_cobblestone": "2024-12-17 02:11:31 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/building_blocks/tainted_cobblestone_stairs_stonecutting": {
+    "criteria": {
+      "has_tainted_cobblestone": "2024-12-17 02:11:31 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/building_blocks/tainted_cobblestone_stairs": {
+    "criteria": {
+      "has_tainted_cobblestone": "2024-12-17 02:11:31 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/misc/super_support_beacon": {
+    "criteria": {
+      "has_the_recipe": "2024-12-17 02:59:26 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/decorations/tainted_sign": {
+    "criteria": {
+      "has_tainted_planks": "2024-12-17 02:18:51 +0000"
     },
     "done": true
   },

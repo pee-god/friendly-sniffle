@@ -39,7 +39,7 @@
 		#Specifies the height the Wither Storm will fly at during phase 4 and up.
 		#Default: 75
 		#Range: 10 ~ 150
-		flyingHeight = 75
+		flyingHeight = 20
 		#Makes the Wither Storm randomly adjust it's flying height itself between 40 and 80.
 		#Default: false
 		dynamicFlyingHeight = false
