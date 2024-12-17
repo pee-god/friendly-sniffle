@@ -7583,3 +7583,82 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [17Dec2024 23:33:02.087] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in witherstormmod:bowels
 [17Dec2024 23:35:00.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Dec2024 23:35:00.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 23:39:20.085] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in witherstormmod:bowels
+[17Dec2024 23:39:23.285] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 23:39:27.538] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 23:39:27.737] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 23:39:27.890] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 23:39:29.938] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 23:39:30.384] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 23:39:30.587] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 23:39:30.787] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 23:39:36.034] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 23:39:36.884] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 23:39:38.485] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 23:39:40.985] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 23:39:42.534] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 23:39:44.888] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 23:39:44.939] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 23:39:44.987] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 23:39:45.034] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 23:39:45.086] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 23:39:45.135] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 23:39:45.187] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 23:39:45.235] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 23:39:45.284] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 23:39:45.337] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 23:39:45.384] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 23:39:45.436] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 23:39:45.485] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 23:39:45.534] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 23:39:45.584] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 23:39:45.639] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 23:39:45.685] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 23:39:45.734] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 23:39:46.186] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 23:39:49.636] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 23:39:50.534] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 23:39:50.585] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 23:39:51.290] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 23:39:54.735] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 23:39:54.784] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 23:39:54.846] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 23:39:54.890] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 23:39:54.949] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 23:39:55.285] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 23:39:55.336] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Dec2024 23:40:00.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 23:40:00.814] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 23:44:10.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] sigues?
+[17Dec2024 23:44:18.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> si xd
+[17Dec2024 23:44:28.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] use el 90% del server
+[17Dec2024 23:44:32.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> mentira, no
+[17Dec2024 23:44:35.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> 🤑🤑🤑
+[17Dec2024 23:44:41.382] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[17Dec2024 23:44:43.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> barra crash serber
+[17Dec2024 23:44:49.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] se ven los emojis xd
+[17Dec2024 23:44:50.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> 😎😎😈😔❤️😈🦍🦍🐄🐄🐄
+[17Dec2024 23:44:56.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> 😏😏😏😏
+[17Dec2024 23:45:00.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 23:45:00.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 23:45:03.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ohno
+[17Dec2024 23:45:06.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> 🥒🐭🥒
+[17Dec2024 23:45:14.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> e ee e e ee e e eee e e e
+[17Dec2024 23:45:49.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Tip of the Spear]
+[17Dec2024 23:46:04.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] xd
+[17Dec2024 23:46:49.085] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[17Dec2024 23:46:54.381] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[17Dec2024 23:47:06.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> tenemos mucho hierro
+[17Dec2024 23:47:15.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] free farm
+[17Dec2024 23:47:16.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> 100 bloques wtf
+[17Dec2024 23:47:22.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] oe hago respaldo
+[17Dec2024 23:47:28.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> pa q
+[17Dec2024 23:47:37.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] pa cambiar de server y volver
+[17Dec2024 23:47:40.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> omg
+[17Dec2024 23:47:42.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> oc
+[17Dec2024 23:47:44.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] pq se puede apagar
+[17Dec2024 23:47:56.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> tabien
+[17Dec2024 23:48:01.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] oc
+[17Dec2024 23:48:29.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ya sal p
+[17Dec2024 23:48:32.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> no
+[17Dec2024 23:48:37.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> nokik mi plis
