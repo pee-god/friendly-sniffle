@@ -955,8 +955,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-11-16 22:31:15 +0000",
+      "minecraft:ghast": "2024-12-17 00:15:59 +0000",
       "minecraft:hoglin": "2024-11-16 22:44:49 +0000",
+      "minecraft:magma_cube": "2024-12-17 00:22:31 +0000",
       "minecraft:spider": "2024-11-16 22:17:14 +0000",
+      "minecraft:piglin_brute": "2024-12-17 00:24:21 +0000",
       "minecraft:creeper": "2024-11-16 22:21:58 +0000",
       "minecraft:zombified_piglin": "2024-12-15 02:11:59 +0000",
       "minecraft:wither_skeleton": "2024-12-15 01:22:54 +0000",
@@ -2836,7 +2839,8 @@
   "spartanweaponry:collect_heads": {
     "criteria": {
       "zombie_head": "2024-12-16 23:11:40 +0000",
-      "wither_skeleton_skull": "2024-12-15 01:22:55 +0000"
+      "wither_skeleton_skull": "2024-12-15 01:22:55 +0000",
+      "piglin_head": "2024-12-17 00:19:52 +0000"
     },
     "done": false
   },
@@ -3434,6 +3438,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-17 00:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-17 00:26:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-16 23:16:07 +0000"
@@ -3452,6 +3468,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/ghast": {
+    "criteria": {
+      "has_ghast_tear": "2024-12-17 00:16:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_bricks": {
     "criteria": {
       "has_quartz_block": "2024-12-16 23:23:33 +0000"
@@ -3461,6 +3483,12 @@
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-16 23:16:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2024-12-17 00:16:01 +0000"
     },
     "done": true
   },
@@ -3476,9 +3504,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-17 00:27:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-16 23:16:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-17 00:22:24 +0000"
     },
     "done": true
   },
@@ -3488,15 +3528,39 @@
     },
     "done": true
   },
+  "netherexp:recipes/blackstone/weeping": {
+    "criteria": {
+      "has_item": "2024-12-17 00:27:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_gunpowder": "2024-12-17 00:16:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/raw_gold": {
     "criteria": {
       "has_raw_gold_block": "2024-12-17 00:06:09 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-17 00:27:40 +0000"
+    },
+    "done": true
+  },
   "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_glass": {
     "criteria": {
       "has_glass": "2024-12-16 23:16:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-17 00:30:54 +0000"
     },
     "done": true
   },
@@ -3524,15 +3588,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-17 00:27:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-16 23:23:33 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-17 00:27:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-16 23:23:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-17 00:16:01 +0000"
     },
     "done": true
   },
@@ -3547,6 +3629,24 @@
       "yellow_bioshroom_stem": "2024-12-16 23:51:45 +0000"
     },
     "done": false
+  },
+  "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_fishing_rod": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-17 00:22:24 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/silver_bomb": {
+    "criteria": {
+      "has_gunpowder": "2024-12-17 00:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-17 00:27:40 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
@@ -3569,6 +3669,12 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2024-12-16 23:26:29 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/twisting": {
+    "criteria": {
+      "has_item": "2024-12-17 00:27:40 +0000"
     },
     "done": true
   },
@@ -3623,6 +3729,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2024-12-16 23:16:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/explosive_charge": {
+    "criteria": {
+      "has_gunpowder": "2024-12-17 00:16:01 +0000"
     },
     "done": true
   },
@@ -3682,56 +3794,66 @@
   },
   "cwsplus:on_hurt": {
     "criteria": {
-      "nbit7": "2024-12-16 23:47:18 +0000",
-      "nbit9": "2024-12-16 23:48:13 +0000",
-      "nbit3": "2024-12-16 23:50:00 +0000",
-      "nbit15": "2024-12-16 23:47:18 +0000",
-      "nbit4": "2024-12-16 23:48:13 +0000",
-      "nbit5": "2024-12-16 23:48:13 +0000",
-      "nbit13": "2024-12-16 23:47:18 +0000",
-      "nbit6": "2024-12-16 23:50:00 +0000",
-      "nbit12": "2024-12-16 23:49:37 +0000",
-      "nbit19": "2024-12-16 23:47:18 +0000",
-      "nbit0": "2024-12-16 23:47:18 +0000",
-      "nbit1": "2024-12-16 23:49:37 +0000",
-      "nbit17": "2024-12-16 23:47:18 +0000",
-      "nbit2": "2024-12-16 23:47:18 +0000",
-      "nbit22": "2024-12-16 23:47:18 +0000",
-      "nbit21": "2024-12-16 23:47:18 +0000",
-      "bit20": "2024-12-16 23:47:18 +0000",
-      "nbit26": "2024-12-16 23:47:18 +0000",
-      "nbit25": "2024-12-16 23:47:18 +0000",
-      "nbit24": "2024-12-16 23:47:18 +0000",
-      "nbit23": "2024-12-16 23:47:18 +0000",
-      "nbit29": "2024-12-16 23:47:18 +0000",
-      "nbit28": "2024-12-16 23:47:18 +0000",
-      "nbit27": "2024-12-16 23:47:18 +0000",
-      "nbit31": "2024-12-16 23:47:18 +0000",
-      "nbit30": "2024-12-16 23:47:18 +0000",
-      "bit9": "2024-12-16 23:47:18 +0000",
-      "bit18": "2024-12-16 23:47:18 +0000",
-      "bit7": "2024-12-16 23:48:13 +0000",
-      "bit16": "2024-12-16 23:47:18 +0000",
-      "bit8": "2024-12-16 23:47:18 +0000",
-      "bit5": "2024-12-16 23:47:18 +0000",
-      "bit14": "2024-12-16 23:47:18 +0000",
-      "bit6": "2024-12-16 23:47:18 +0000",
-      "bit3": "2024-12-16 23:47:18 +0000",
-      "bit4": "2024-12-16 23:47:18 +0000",
-      "bit1": "2024-12-16 23:47:18 +0000",
-      "bit2": "2024-12-16 23:48:13 +0000",
-      "bit0": "2024-12-16 23:48:13 +0000",
-      "nbit10": "2024-12-16 23:47:18 +0000",
-      "bit12": "2024-12-16 23:47:18 +0000",
-      "bit13": "2024-12-16 23:49:37 +0000",
-      "bit10": "2024-12-16 23:49:37 +0000",
-      "bit11": "2024-12-16 23:47:18 +0000"
+      "nbit8": "2024-12-17 00:32:26 +0000",
+      "nbit9": "2024-12-17 00:32:53 +0000",
+      "nbit3": "2024-12-17 00:32:26 +0000",
+      "nbit15": "2024-12-17 00:32:53 +0000",
+      "nbit4": "2024-12-17 00:32:53 +0000",
+      "nbit14": "2024-12-17 00:32:26 +0000",
+      "nbit5": "2024-12-17 00:32:53 +0000",
+      "nbit13": "2024-12-17 00:32:26 +0000",
+      "nbit6": "2024-12-17 00:32:26 +0000",
+      "nbit12": "2024-12-17 00:32:53 +0000",
+      "nbit19": "2024-12-17 00:32:26 +0000",
+      "nbit2": "2024-12-17 00:32:53 +0000",
+      "nbit16": "2024-12-17 00:32:26 +0000",
+      "nbit22": "2024-12-17 00:32:26 +0000",
+      "nbit21": "2024-12-17 00:32:26 +0000",
+      "bit20": "2024-12-17 00:32:26 +0000",
+      "nbit26": "2024-12-17 00:32:26 +0000",
+      "nbit25": "2024-12-17 00:32:26 +0000",
+      "nbit24": "2024-12-17 00:32:26 +0000",
+      "nbit23": "2024-12-17 00:32:26 +0000",
+      "nbit29": "2024-12-17 00:32:26 +0000",
+      "nbit28": "2024-12-17 00:32:26 +0000",
+      "nbit27": "2024-12-17 00:32:26 +0000",
+      "nbit31": "2024-12-17 00:32:26 +0000",
+      "nbit30": "2024-12-17 00:32:26 +0000",
+      "bit9": "2024-12-17 00:32:26 +0000",
+      "bit18": "2024-12-17 00:32:26 +0000",
+      "bit7": "2024-12-17 00:32:26 +0000",
+      "bit17": "2024-12-17 00:32:26 +0000",
+      "bit5": "2024-12-17 00:32:26 +0000",
+      "bit14": "2024-12-17 00:32:53 +0000",
+      "bit15": "2024-12-17 00:32:26 +0000",
+      "bit4": "2024-12-17 00:32:26 +0000",
+      "bit1": "2024-12-17 00:32:26 +0000",
+      "bit2": "2024-12-17 00:32:26 +0000",
+      "bit0": "2024-12-17 00:32:26 +0000",
+      "nbit11": "2024-12-17 00:32:53 +0000",
+      "nbit10": "2024-12-17 00:32:26 +0000",
+      "bit12": "2024-12-17 00:32:26 +0000",
+      "bit13": "2024-12-17 00:32:53 +0000",
+      "bit10": "2024-12-17 00:32:53 +0000",
+      "bit11": "2024-12-17 00:32:26 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-17 00:27:40 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-16 23:16:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blackstone_cluster": {
+    "criteria": {
+      "has_blackstone": "2024-12-17 00:22:33 +0000"
     },
     "done": true
   },
@@ -3744,6 +3866,24 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-16 23:16:07 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/lesion": {
+    "criteria": {
+      "has_item": "2024-12-17 00:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-17 00:19:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-17 00:16:01 +0000"
     },
     "done": true
   },
