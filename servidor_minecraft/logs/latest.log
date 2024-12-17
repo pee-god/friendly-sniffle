@@ -419,3 +419,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [17Dec2024 22:05:57.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] xd
 [17Dec2024 22:06:18.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] use el 75% del sever
 [17Dec2024 22:15:00.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! -0.18994064289108792,-0.42355929454303975,-10.232097410379993
+[17Dec2024 22:21:24.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has made the advancement [Ambush]

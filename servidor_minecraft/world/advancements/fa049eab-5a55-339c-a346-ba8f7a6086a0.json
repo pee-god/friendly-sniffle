@@ -1249,6 +1249,7 @@
       "minecraft:piglin_brute": "2024-12-15 03:15:55 +0000",
       "minecraft:creeper": "2024-11-16 21:50:08 +0000",
       "minecraft:zombified_piglin": "2024-12-15 01:55:02 +0000",
+      "minecraft:witch": "2024-12-17 22:21:24 +0000",
       "minecraft:wither_skeleton": "2024-12-15 01:42:56 +0000",
       "minecraft:piglin": "2024-12-16 23:59:05 +0000",
       "minecraft:stray": "2024-12-09 00:49:36 +0000",
@@ -7405,6 +7406,12 @@
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-17 22:02:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-17 22:21:24 +0000"
     },
     "done": true
   },
