@@ -5637,6 +5637,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2024-12-17 00:02:11 +0000"
+    },
+    "done": true
+  },
   "nethers_exoticism:kiwano_adv": {
     "criteria": {
       "kiwano_adv": "2024-12-16 23:41:25 +0000"
