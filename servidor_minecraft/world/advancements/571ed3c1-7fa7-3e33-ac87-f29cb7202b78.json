@@ -6298,21 +6298,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/spruce_shrub": {
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
-      "has_spruce_sapling": "2024-12-17 04:04:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2024-12-17 04:01:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2024-12-17 04:04:43 +0000"
+      "has_wither_rose": "2024-12-17 02:02:21 +0000"
     },
     "done": true
   },
@@ -6322,51 +6310,9 @@
     },
     "done": true
   },
-  "witherstormmod:recipes/decorations/tainted_glass_pane": {
-    "criteria": {
-      "has_tainted_glass": "2024-12-17 03:08:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper": {
-    "criteria": {
-      "has_copper_block": "2024-12-17 04:01:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
-    "criteria": {
-      "has_copper_block": "2024-12-17 04:01:26 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/decorations/tainted_cobblestone_slab": {
-    "criteria": {
-      "has_tainted_cobblestone": "2024-12-17 03:03:24 +0000"
-    },
-    "done": true
-  },
   "witherstormmod:recipes/redstone/withered_phlegm_block": {
     "criteria": {
       "has_tainted_dust": "2024-12-17 02:07:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2024-12-17 04:04:43 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
-    "criteria": {
-      "has_log": "2024-12-17 03:23:44 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/building_blocks/tainted_sandstone": {
-    "criteria": {
-      "has_tainted_sand": "2024-12-17 02:53:48 +0000"
     },
     "done": true
   },
@@ -6376,81 +6322,9 @@
     },
     "done": true
   },
-  "witherstormmod:recipes/decorations/tainted_cobblestone_slab_stonecutting": {
-    "criteria": {
-      "has_tainted_cobblestone": "2024-12-17 03:03:24 +0000"
-    },
-    "done": true
-  },
   "witherstormmod:recipes/building_blocks/tainted_dust_block": {
     "criteria": {
       "has_tainted_dust": "2024-12-17 02:07:33 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/decorations/tainted_cobblestone_wall": {
-    "criteria": {
-      "has_tainted_cobblestone": "2024-12-17 03:03:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2024-12-17 02:02:21 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/misc/super_beacon": {
-    "criteria": {
-      "has_withered_nether_star": "2024-12-17 02:52:56 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_voodoo_poppet": {
-    "criteria": {
-      "has_voodoo_poppet": "2024-12-17 03:00:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2024-12-17 04:01:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot": {
-    "criteria": {
-      "has_copper_block": "2024-12-17 04:01:26 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:main/wither_storm_defeated": {
-    "criteria": {
-      "obtain_withered_nether_star": "2024-12-17 02:52:56 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
-    "criteria": {
-      "has_log": "2024-12-17 04:04:43 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2024-12-17 02:42:49 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_book": {
-    "criteria": {
-      "cave_book": "2024-12-17 03:55:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lapis_lazuli": {
-    "criteria": {
-      "has_lapis_block": "2024-12-17 03:19:22 +0000"
     },
     "done": true
   },
@@ -6460,27 +6334,75 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-17 02:42:49 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/misc/super_beacon": {
+    "criteria": {
+      "has_withered_nether_star": "2024-12-17 02:52:56 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:main/wither_storm_defeated": {
+    "criteria": {
+      "obtain_withered_nether_star": "2024-12-17 02:52:56 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/misc/super_support_beacon": {
+    "criteria": {
+      "has_the_recipe": "2024-12-17 02:52:56 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/building_blocks/tainted_sandstone": {
+    "criteria": {
+      "has_tainted_sand": "2024-12-17 02:53:48 +0000"
+    },
+    "done": true
+  },
   "witherstormmod:recipes/decorations/tainted_glass": {
     "criteria": {
       "has_tainted_sand": "2024-12-17 02:53:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
+  "tombstone:adventure/create_voodoo_poppet": {
     "criteria": {
-      "has_bamboo": "2024-12-17 03:30:12 +0000"
+      "has_voodoo_poppet": "2024-12-17 03:00:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2024-12-17 03:00:13 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/decorations/tainted_cobblestone_slab": {
+    "criteria": {
+      "has_tainted_cobblestone": "2024-12-17 03:03:24 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/decorations/tainted_cobblestone_slab_stonecutting": {
+    "criteria": {
+      "has_tainted_cobblestone": "2024-12-17 03:03:24 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/decorations/tainted_cobblestone_wall": {
+    "criteria": {
+      "has_tainted_cobblestone": "2024-12-17 03:03:24 +0000"
     },
     "done": true
   },
   "witherstormmod:recipes/building_blocks/tainted_stone": {
     "criteria": {
       "has_tainted_cobblestone": "2024-12-17 03:03:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2024-12-17 04:01:26 +0000"
     },
     "done": true
   },
@@ -6496,15 +6418,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bamboo_block": {
+  "witherstormmod:recipes/decorations/tainted_glass_pane": {
+    "criteria": {
+      "has_tainted_glass": "2024-12-17 03:08:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2024-12-17 03:19:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
+    "criteria": {
+      "has_log": "2024-12-17 03:23:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2024-12-17 03:30:12 +0000"
     },
     "done": true
   },
-  "witherstormmod:recipes/misc/super_support_beacon": {
+  "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
-      "has_the_recipe": "2024-12-17 02:52:56 +0000"
+      "has_bamboo": "2024-12-17 03:30:12 +0000"
     },
     "done": true
   },
@@ -6514,9 +6454,165 @@
     },
     "done": true
   },
-  "tombstone:adventure/enchant_voodoo_poppet": {
+  "alexscaves:alexscaves/cave_book": {
     "criteria": {
-      "has_enchanted_voodoo_poppet": "2024-12-17 03:00:13 +0000"
+      "cave_book": "2024-12-17 03:55:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-12-17 04:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2024-12-17 04:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2024-12-17 04:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-12-17 04:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2024-12-17 04:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-12-17 04:01:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_shrub": {
+    "criteria": {
+      "has_spruce_sapling": "2024-12-17 04:04:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-17 04:04:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-17 04:04:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
+    "criteria": {
+      "has_log": "2024-12-17 04:04:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
+    "criteria": {
+      "has_log": "2024-12-17 17:45:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-17 17:47:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-17 17:47:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-17 17:47:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-17 17:47:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-17 17:47:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-17 17:47:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-17 17:42:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-17 17:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-17 17:47:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-17 17:47:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-17 17:47:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-17 17:45:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2024-12-17 17:48:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-17 17:45:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/dark_oak_shrub": {
+    "criteria": {
+      "has_dark_oak_sapling": "2024-12-17 17:49:07 +0000"
     },
     "done": true
   },

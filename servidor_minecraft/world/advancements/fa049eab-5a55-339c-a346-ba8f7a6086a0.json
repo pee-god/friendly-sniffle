@@ -671,6 +671,7 @@
       "beef": "2024-12-08 03:35:37 +0000",
       "baked_potato": "2024-12-09 01:54:10 +0000",
       "porkchop": "2024-11-26 02:10:43 +0000",
+      "potato": "2024-12-17 17:35:21 +0000",
       "bread": "2024-11-16 06:36:42 +0000",
       "golden_apple": "2024-11-16 08:15:00 +0000",
       "rotten_flesh": "2024-12-09 01:01:39 +0000",
@@ -1251,7 +1252,8 @@
       "minecraft:piglin": "2024-12-16 23:59:05 +0000",
       "minecraft:stray": "2024-12-09 00:49:36 +0000",
       "minecraft:enderman": "2024-12-14 23:55:34 +0000",
-      "minecraft:zombie": "2024-11-16 07:12:01 +0000"
+      "minecraft:zombie": "2024-11-16 07:12:01 +0000",
+      "minecraft:drowned": "2024-12-17 17:45:12 +0000"
     },
     "done": false
   },
@@ -4515,6 +4517,7 @@
       "rocky_meadow": "2024-12-09 01:02:46 +0000",
       "mycotoxic_undergrowth": "2024-12-15 01:34:56 +0000",
       "ochard": "2024-12-17 01:52:29 +0000",
+      "flower_fields": "2024-12-17 17:29:07 +0000",
       "highland_fields": "2024-12-09 03:25:00 +0000",
       "frozen_pine_taiga": "2024-12-08 03:36:03 +0000",
       "maple_forest": "2024-12-09 00:54:33 +0000",
@@ -4543,6 +4546,7 @@
       "grassy_beach": "2024-12-09 01:06:58 +0000",
       "rocky_meadow": "2024-12-09 01:02:46 +0000",
       "ochard": "2024-12-17 01:52:29 +0000",
+      "flower_fields": "2024-12-17 17:29:07 +0000",
       "highland_fields": "2024-12-09 03:25:00 +0000",
       "frozen_pine_taiga": "2024-12-08 03:36:03 +0000",
       "maple_forest": "2024-12-09 00:54:33 +0000",
@@ -6621,33 +6625,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
-    "criteria": {
-      "has_emerald_block": "2024-12-17 03:36:03 +0000"
-    },
-    "done": true
-  },
   "witherstormmod:main/escape_wither_storm": {
     "criteria": {
       "escape_wither_storm": "2024-12-17 02:00:48 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/spruce_shrub": {
-    "criteria": {
-      "has_spruce_sapling": "2024-12-17 03:24:06 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
-    "criteria": {
-      "has_log": "2024-12-17 03:24:12 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/building_blocks/tainted_planks": {
-    "criteria": {
-      "has_logs": "2024-12-17 02:45:39 +0000"
     },
     "done": true
   },
@@ -6657,45 +6637,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/birch_shrub": {
-    "criteria": {
-      "has_birch_sapling": "2024-12-17 03:04:24 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/decorations/tainted_cobblestone_slab": {
-    "criteria": {
-      "has_tainted_cobblestone": "2024-12-17 02:11:31 +0000"
-    },
-    "done": true
-  },
   "witherstormmod:recipes/redstone/withered_phlegm_block": {
     "criteria": {
       "has_tainted_dust": "2024-12-17 02:09:18 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/redstone/tainted_pressure_plate": {
-    "criteria": {
-      "has_tainted_planks": "2024-12-17 02:18:51 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
-    "criteria": {
-      "has_log": "2024-12-17 03:23:57 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/building_blocks/tainted_stairs": {
-    "criteria": {
-      "has_tainted_planks": "2024-12-17 02:18:51 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/building_blocks/tainted_sandstone": {
-    "criteria": {
-      "has_tainted_sand": "2024-12-17 02:11:30 +0000"
     },
     "done": true
   },
@@ -6705,15 +6649,27 @@
     },
     "done": true
   },
-  "witherstormmod:recipes/redstone/tainted_fence_gate": {
+  "witherstormmod:recipes/building_blocks/tainted_dust_block": {
     "criteria": {
-      "has_tainted_planks": "2024-12-17 02:18:51 +0000"
+      "has_tainted_dust": "2024-12-17 02:09:18 +0000"
     },
     "done": true
   },
-  "witherstormmod:recipes/decorations/tainted_slab": {
+  "witherstormmod:recipes/building_blocks/tainted_sandstone": {
     "criteria": {
-      "has_tainted_planks": "2024-12-17 02:18:51 +0000"
+      "has_tainted_sand": "2024-12-17 02:11:30 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/decorations/tainted_glass": {
+    "criteria": {
+      "has_tainted_sand": "2024-12-17 02:11:30 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/decorations/tainted_cobblestone_slab": {
+    "criteria": {
+      "has_tainted_cobblestone": "2024-12-17 02:11:31 +0000"
     },
     "done": true
   },
@@ -6723,99 +6679,9 @@
     },
     "done": true
   },
-  "witherstormmod:recipes/redstone/tainted_door": {
-    "criteria": {
-      "has_tainted_planks": "2024-12-17 02:18:51 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/building_blocks/tainted_dust_block": {
-    "criteria": {
-      "has_tainted_dust": "2024-12-17 02:09:18 +0000"
-    },
-    "done": true
-  },
   "witherstormmod:recipes/decorations/tainted_cobblestone_wall": {
     "criteria": {
       "has_tainted_cobblestone": "2024-12-17 02:11:31 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/decorations/tainted_fence": {
-    "criteria": {
-      "has_tainted_planks": "2024-12-17 02:18:51 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/redstone/tainted_button": {
-    "criteria": {
-      "has_tainted_planks": "2024-12-17 02:18:51 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/misc/super_beacon": {
-    "criteria": {
-      "has_withered_nether_star": "2024-12-17 02:59:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
-    "criteria": {
-      "has_white_tulip": "2024-12-17 03:39:20 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/building_blocks/tainted_wood": {
-    "criteria": {
-      "has_tainted_log": "2024-12-17 02:45:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2024-12-17 03:24:12 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:main/wither_storm_defeated": {
-    "criteria": {
-      "obtain_withered_nether_star": "2024-12-17 02:59:26 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
-    "criteria": {
-      "has_log": "2024-12-17 03:01:55 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/redstone/tainted_trapdoor": {
-    "criteria": {
-      "has_tainted_planks": "2024-12-17 02:18:51 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_book": {
-    "criteria": {
-      "cave_book": "2024-12-17 03:55:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2024-12-17 03:24:12 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/dark_oak_shrub": {
-    "criteria": {
-      "has_dark_oak_sapling": "2024-12-17 03:24:33 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/decorations/tainted_glass": {
-    "criteria": {
-      "has_tainted_sand": "2024-12-17 02:11:30 +0000"
     },
     "done": true
   },
@@ -6837,15 +6703,267 @@
     },
     "done": true
   },
-  "witherstormmod:recipes/misc/super_support_beacon": {
+  "witherstormmod:recipes/redstone/tainted_pressure_plate": {
     "criteria": {
-      "has_the_recipe": "2024-12-17 02:59:26 +0000"
+      "has_tainted_planks": "2024-12-17 02:18:51 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/building_blocks/tainted_stairs": {
+    "criteria": {
+      "has_tainted_planks": "2024-12-17 02:18:51 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/redstone/tainted_fence_gate": {
+    "criteria": {
+      "has_tainted_planks": "2024-12-17 02:18:51 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/decorations/tainted_slab": {
+    "criteria": {
+      "has_tainted_planks": "2024-12-17 02:18:51 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/redstone/tainted_door": {
+    "criteria": {
+      "has_tainted_planks": "2024-12-17 02:18:51 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/decorations/tainted_fence": {
+    "criteria": {
+      "has_tainted_planks": "2024-12-17 02:18:51 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/redstone/tainted_button": {
+    "criteria": {
+      "has_tainted_planks": "2024-12-17 02:18:51 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/redstone/tainted_trapdoor": {
+    "criteria": {
+      "has_tainted_planks": "2024-12-17 02:18:51 +0000"
     },
     "done": true
   },
   "witherstormmod:recipes/decorations/tainted_sign": {
     "criteria": {
       "has_tainted_planks": "2024-12-17 02:18:51 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/building_blocks/tainted_planks": {
+    "criteria": {
+      "has_logs": "2024-12-17 02:45:39 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/building_blocks/tainted_wood": {
+    "criteria": {
+      "has_tainted_log": "2024-12-17 02:45:39 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/misc/super_beacon": {
+    "criteria": {
+      "has_withered_nether_star": "2024-12-17 02:59:26 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:main/wither_storm_defeated": {
+    "criteria": {
+      "obtain_withered_nether_star": "2024-12-17 02:59:26 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/misc/super_support_beacon": {
+    "criteria": {
+      "has_the_recipe": "2024-12-17 02:59:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
+    "criteria": {
+      "has_log": "2024-12-17 03:01:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/birch_shrub": {
+    "criteria": {
+      "has_birch_sapling": "2024-12-17 03:04:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
+    "criteria": {
+      "has_log": "2024-12-17 03:23:57 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_shrub": {
+    "criteria": {
+      "has_spruce_sapling": "2024-12-17 03:24:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
+    "criteria": {
+      "has_log": "2024-12-17 03:24:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-17 03:24:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-17 03:24:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/dark_oak_shrub": {
+    "criteria": {
+      "has_dark_oak_sapling": "2024-12-17 03:24:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-12-17 03:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2024-12-17 03:39:20 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2024-12-17 03:55:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
+    "criteria": {
+      "has_hyssop": "2024-12-17 17:29:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/light_gray_dye_from_tassel": {
+    "criteria": {
+      "has_tassel": "2024-12-17 17:37:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/white_dye_from_white_trillium": {
+    "criteria": {
+      "has_white_trillium": "2024-12-17 17:44:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-12-17 17:27:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/cherry_branch_from_cherry_log": {
+    "criteria": {
+      "has_log": "2024-12-17 17:27:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/cherry_shrub": {
+    "criteria": {
+      "has_cherry_sapling": "2024-12-17 17:28:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2024-12-17 17:29:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-12-17 17:29:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/pink_dye_from_pink_lupine": {
+    "criteria": {
+      "has_pink_lupine": "2024-12-17 17:43:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-12-17 17:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2024-12-17 17:29:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/red_dye_from_waratah": {
+    "criteria": {
+      "has_waratah": "2024-12-17 17:32:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2024-12-17 17:38:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/red_dye_from_tsubaki": {
+    "criteria": {
+      "has_tsubaki": "2024-12-17 17:43:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2024-12-17 17:36:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/magenta_dye_from_bleeding_heart": {
+    "criteria": {
+      "has_bleeding_heart": "2024-12-17 17:30:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-12-17 17:29:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2024-12-17 17:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-12-17 17:29:22 +0000"
     },
     "done": true
   },
