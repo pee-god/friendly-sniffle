@@ -415,3 +415,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [17Dec2024 21:49:20.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
 [17Dec2024 21:55:20.489] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s lost connection: Disconnected
 [17Dec2024 21:55:20.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s left the game
+[17Dec2024 22:05:49.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> zzz
+[17Dec2024 22:05:57.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] xd
+[17Dec2024 22:06:18.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] use el 75% del sever
