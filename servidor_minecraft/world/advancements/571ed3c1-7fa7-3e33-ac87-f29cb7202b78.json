@@ -5895,6 +5895,12 @@
     },
     "done": true
   },
+  "netherexp:nether/enter_soul_glass": {
+    "criteria": {
+      "condition": "2024-12-17 01:18:37 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
     "criteria": {
       "has_netherite_ingot": "2024-12-17 00:39:08 +0000"

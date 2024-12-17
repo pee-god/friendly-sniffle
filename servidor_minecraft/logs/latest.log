@@ -264,3 +264,47 @@
 [17Dec2024 01:20:23.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to quipit0s]
 [17Dec2024 01:20:25.219] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6131ms or 122 ticks behind
 [17Dec2024 01:20:41.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Polluda has made the advancement [Into Fire]
+[17Dec2024 01:20:47.458] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7269ms or 145 ticks behind
+[17Dec2024 01:21:08.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GamerRCJ to GabrielCacao]
+[17Dec2024 01:21:10.375] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7937ms or 158 ticks behind
+[17Dec2024 01:21:14.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported Polluda to GabrielCacao]
+[17Dec2024 01:21:30.318] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4980ms or 99 ticks behind
+[17Dec2024 01:21:42.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Polluda has made the advancement [Cover Me with Diamonds]
+[17Dec2024 01:21:49.530] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4242ms or 84 ticks behind
+[17Dec2024 01:22:09.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5040ms or 100 ticks behind
+[17Dec2024 01:22:30.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5672ms or 113 ticks behind
+[17Dec2024 01:22:50.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5173ms or 103 ticks behind
+[17Dec2024 01:23:10.444] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5156ms or 103 ticks behind
+[17Dec2024 01:23:34.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8640ms or 172 ticks behind
+[17Dec2024 01:23:50.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Polluda has made the advancement [Isn't It Iron Pick]
+[17Dec2024 01:23:55.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6405ms or 128 ticks behind
+[17Dec2024 01:24:11.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Polluda has made the advancement [Acquire Hardware]
+[17Dec2024 01:24:15.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5116ms or 102 ticks behind
+[17Dec2024 01:24:36.272] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5733ms or 114 ticks behind
+[17Dec2024 01:24:45.716] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Polluda lost connection: Disconnected
+[17Dec2024 01:24:45.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Polluda left the game
+[17Dec2024 01:24:56.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5632ms or 112 ticks behind
+[17Dec2024 01:25:17.013] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5174ms or 103 ticks behind
+[17Dec2024 01:25:37.510] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5521ms or 110 ticks behind
+[17Dec2024 01:25:57.638] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5149ms or 102 ticks behind
+[17Dec2024 01:26:17.650] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5061ms or 101 ticks behind
+[17Dec2024 01:26:38.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5415ms or 108 ticks behind
+[17Dec2024 01:27:00.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7018ms or 140 ticks behind
+[17Dec2024 01:27:13.546] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1011, y=56, z=-203} BlockPos{x=-1011, y=55, z=-203}
+[17Dec2024 01:27:13.547] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1011, y=56, z=-203} BlockPos{x=-1011, y=55, z=-203}
+[17Dec2024 01:27:13.612] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1011, y=56, z=-203} BlockPos{x=-1011, y=55, z=-203}
+[17Dec2024 01:27:13.678] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1011, y=56, z=-203} BlockPos{x=-1011, y=55, z=-203}
+[17Dec2024 01:27:13.822] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1011, y=56, z=-203} BlockPos{x=-1011, y=55, z=-203}
+[17Dec2024 01:27:20.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5620ms or 112 ticks behind
+[17Dec2024 01:27:40.746] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5107ms or 102 ticks behind
+[17Dec2024 01:28:01.026] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5288ms or 105 ticks behind
+[17Dec2024 01:28:22.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6118ms or 122 ticks behind
+[17Dec2024 01:28:23.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[17Dec2024 01:28:40.512] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3423ms or 68 ticks behind
+[17Dec2024 01:28:57.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2116ms or 42 ticks behind
+[17Dec2024 01:29:16.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[17Dec2024 01:29:37.195] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[17Dec2024 01:29:54.460] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2271ms or 45 ticks behind
+[17Dec2024 01:30:14.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5466ms or 109 ticks behind
+[17Dec2024 01:30:34.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4237ms or 84 ticks behind
+[17Dec2024 01:30:52.976] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3888ms or 77 ticks behind
