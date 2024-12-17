@@ -7403,6 +7403,12 @@
     },
     "done": true
   },
+  "spartanweaponry:spear": {
+    "criteria": {
+      "has_spear": "2024-12-17 23:45:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-17 23:27:16 +0000"
