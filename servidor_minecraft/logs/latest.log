@@ -408,3 +408,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [17Dec2024 21:33:56.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> cumadera
 [17Dec2024 21:33:59.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> cumeadera
 [17Dec2024 21:35:02.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> aldeano sexo
+[17Dec2024 21:49:03.150] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao lost connection: Disconnected
+[17Dec2024 21:49:03.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao left the game
+[17Dec2024 21:49:19.712] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GabrielCacao[/127.146.234.60:49749] logged in with entity id 71519 at (-531.3000000119209, 41.0, -314.30000001192093)
+[17Dec2024 21:49:19.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao joined the game
+[17Dec2024 21:49:20.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported GabrielCacao to quipit0s]
+[17Dec2024 21:55:20.489] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s lost connection: Disconnected
+[17Dec2024 21:55:20.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s left the game
