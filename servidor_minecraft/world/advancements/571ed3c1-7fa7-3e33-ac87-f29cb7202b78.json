@@ -4685,6 +4685,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "brimwood_log": "2024-12-17 01:14:17 +0000",
       "pine_log": "2024-12-09 01:37:05 +0000",
       "maple_log": "2024-12-15 05:17:07 +0000"
     },
@@ -5510,12 +5511,6 @@
     },
     "done": true
   },
-  "cwsplus:on_hurt": {
-    "criteria": {
-      "bit19": "2024-12-17 01:08:30 +0000"
-    },
-    "done": false
-  },
   "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
     "criteria": {
       "has_log": "2024-12-15 05:17:07 +0000"
@@ -5576,6 +5571,24 @@
     },
     "done": true
   },
+  "netherexp:recipes/misc/torch_from_fossil_fuel": {
+    "criteria": {
+      "has_item": "2024-12-17 01:15:31 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_jack_o_lantern": {
+    "criteria": {
+      "has_item": "2024-12-17 01:13:00 +0000"
+    },
+    "done": true
+  },
+  "nethers_exoticism:bouddha_s_hand_adv": {
+    "criteria": {
+      "bouddha_s_hand_adv": "2024-12-17 01:09:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2024-12-16 23:19:00 +0000"
@@ -5612,6 +5625,12 @@
     },
     "done": true
   },
+  "netherexp:nether/gravedigger": {
+    "criteria": {
+      "has_item": "2024-12-17 01:15:31 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/netherite_javelin_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-17 00:39:08 +0000"
@@ -5621,6 +5640,18 @@
   "spartanweaponry:recipes/combat/netherite_spear_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-17 00:39:08 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_torch_from_fossil_fuel": {
+    "criteria": {
+      "has_item": "2024-12-17 01:13:00 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_skeleton_skull_candle": {
+    "criteria": {
+      "has_item": "2024-12-17 01:13:00 +0000"
     },
     "done": true
   },
@@ -5645,6 +5676,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-17 00:27:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_fence_gate": {
+    "criteria": {
+      "has_brimwood_planks": "2024-12-17 01:14:46 +0000"
     },
     "done": true
   },
@@ -5798,9 +5835,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/brimwood_pressure_plate": {
+    "criteria": {
+      "has_brimwood_planks": "2024-12-17 01:14:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2024-12-17 00:27:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brimwood_planks": {
+    "criteria": {
+      "has_logs": "2024-12-17 01:14:17 +0000"
     },
     "done": true
   },
@@ -5852,6 +5901,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/misc/brown_dye_from_fossil_fuel": {
+    "criteria": {
+      "has_item": "2024-12-17 01:15:31 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/combat/sterling_boots_smithing": {
     "criteria": {
       "has_silver_ingot": "2024-12-17 00:39:08 +0000"
@@ -5900,6 +5955,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/bone_blocks/wither/soul_burning_skull_block": {
+    "criteria": {
+      "has_item": "2024-12-17 01:13:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2024-12-17 00:38:13 +0000"
@@ -5924,6 +5985,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/bone_blocks/soul_burning_skull_block": {
+    "criteria": {
+      "has_item": "2024-12-17 01:13:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-17 00:39:08 +0000"
@@ -5933,6 +6000,12 @@
   "spartanweaponry:recipes/combat/netherite_greatsword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-17 00:39:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:downer": {
+    "criteria": {
+      "dorcel": "2024-12-17 01:12:04 +0000"
     },
     "done": true
   },
@@ -5954,9 +6027,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/brimwood_fence": {
+    "criteria": {
+      "has_brimwood_planks": "2024-12-17 01:14:46 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/combat/sterling_horse_armor_smithing": {
     "criteria": {
       "has_silver_ingot": "2024-12-17 00:39:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brimwood_slab": {
+    "criteria": {
+      "has_brimwood_planks": "2024-12-17 01:14:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/brimwood_sign": {
+    "criteria": {
+      "has_brimwood_planks": "2024-12-17 01:14:46 +0000"
     },
     "done": true
   },
@@ -5966,9 +6057,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/brimwood_wood": {
+    "criteria": {
+      "has_log": "2024-12-17 01:14:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-16 23:19:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_button": {
+    "criteria": {
+      "has_brimwood_planks": "2024-12-17 01:14:46 +0000"
     },
     "done": true
   },
@@ -6032,6 +6135,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/brimwood_stairs": {
+    "criteria": {
+      "has_brimwood_planks": "2024-12-17 01:14:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-17 00:39:08 +0000"
@@ -6050,6 +6159,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/brimwood_trapdoor": {
+    "criteria": {
+      "has_brimwood_planks": "2024-12-17 01:14:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-16 23:19:00 +0000"
@@ -6059,6 +6174,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2024-12-17 00:27:55 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_candle": {
+    "criteria": {
+      "has_planks": "2024-12-17 01:13:00 +0000"
     },
     "done": true
   },
@@ -6125,6 +6246,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2024-12-17 00:19:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_door": {
+    "criteria": {
+      "has_brimwood_planks": "2024-12-17 01:14:46 +0000"
     },
     "done": true
   },
