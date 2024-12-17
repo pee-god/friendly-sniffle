@@ -4478,12 +4478,6 @@
     },
     "done": true
   },
-  "cwsplus:on_hit": {
-    "criteria": {
-      "not_target": "2024-12-17 20:32:38 +0000"
-    },
-    "done": false
-  },
   "witherstormmod:recipes/misc/super_beacon": {
     "criteria": {
       "has_withered_nether_star": "2024-12-17 02:59:07 +0000"

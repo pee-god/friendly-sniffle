@@ -6707,6 +6707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-12-17 20:38:22 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
     "criteria": {
       "has_bone_block": "2024-12-17 20:26:49 +0000"
@@ -6742,12 +6748,6 @@
       "has_item": "2024-12-17 20:26:49 +0000"
     },
     "done": true
-  },
-  "cwsplus:on_hit": {
-    "criteria": {
-      "not_target": "2024-12-17 20:33:05 +0000"
-    },
-    "done": false
   },
   "cwsplus:on_hurt": {
     "criteria": {
