@@ -6926,6 +6926,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/quartz/cracked_quartz_bricks": {
+    "criteria": {
+      "has_item": "2024-12-17 19:59:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2024-12-17 19:44:26 +0000"
@@ -6959,6 +6965,12 @@
   "travelersbackpack:recipes/misc/pumpkin": {
     "criteria": {
       "has_pumpkin": "2024-12-17 17:29:03 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sugar_rush": {
+    "criteria": {
+      "all_effects": "2024-12-17 19:50:44 +0000"
     },
     "done": true
   },
@@ -7187,6 +7199,18 @@
   "regions_unexplored:recipes/building_blocks/mossy_stone": {
     "criteria": {
       "has_stone": "2024-12-17 19:03:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2024-12-17 19:55:44 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/quartz/chiseled_quartz_pillar": {
+    "criteria": {
+      "has_item": "2024-12-17 20:00:07 +0000"
     },
     "done": true
   },

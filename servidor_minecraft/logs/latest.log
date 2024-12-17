@@ -336,3 +336,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [17Dec2024 19:35:39.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s left the game
 [17Dec2024 19:35:47.404] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: quipit0s[/127.23.187.149:60329] logged in with entity id 37629 at (-5538.699999988079, 63.0, -2164.699999988079)
 [17Dec2024 19:35:47.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s joined the game
+[17Dec2024 19:50:44.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabrielCacao has reached the goal [Sweet Sweet Speeding Up]
+[17Dec2024 19:50:44.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Mutual Aid]
+[17Dec2024 19:51:16.066] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GamerRCJ[/127.122.55.229:47379] logged in with entity id 40367 at (-5588.77864300443, 64.0, -2185.084967125997)
+[17Dec2024 19:51:16.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ joined the game
+[17Dec2024 19:51:35.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GamerRCJ> wtf
+[17Dec2024 19:51:37.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GamerRCJ> ni leo
+[17Dec2024 19:51:40.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> calla leo
+[17Dec2024 19:53:01.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
+[17Dec2024 19:54:41.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
+[17Dec2024 19:55:13.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> jac
+[17Dec2024 19:55:22.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> XDD
+[17Dec2024 19:55:26.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GamerRCJ> pq tenemos saturacion?
+[17Dec2024 19:55:27.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GamerRCJ> XD
+[17Dec2024 19:55:30.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> pq si
+[17Dec2024 19:55:34.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabrielCacao> bicon
+[17Dec2024 19:57:15.546] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GamerRCJ lost connection: Disconnected
+[17Dec2024 19:57:15.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GamerRCJ left the game
+[17Dec2024 19:59:45.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! -9.769086175788289,2.127890238205481,-1.6542529761641163
+[17Dec2024 19:59:45.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabrielCacao moved too quickly! -10.099941220277287,0.023088109101550458,-1.5348210788797587
+[17Dec2024 20:04:24.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quipit0s: Teleported quipit0s to GabrielCacao]
+[17Dec2024 20:05:21.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s moved too quickly! 10.097014302509706,0.0,0.10701888099538337

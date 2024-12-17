@@ -6707,5 +6707,17 @@
     },
     "done": true
   },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2024-12-17 19:50:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2024-12-17 19:54:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

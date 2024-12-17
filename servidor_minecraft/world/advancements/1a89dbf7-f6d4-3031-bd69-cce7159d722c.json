@@ -4306,6 +4306,210 @@
     },
     "done": true
   },
+  "witherstormmod:main/escape_wither_storm": {
+    "criteria": {
+      "escape_wither_storm": "2024-12-17 01:54:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2024-12-17 01:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2024-12-17 01:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-12-17 01:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2024-12-17 01:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2024-12-17 02:01:07 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:main/belly_of_the_beast": {
+    "criteria": {
+      "enter_bowels": "2024-12-17 02:05:58 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/decorations/tainted_cobblestone_slab": {
+    "criteria": {
+      "has_tainted_cobblestone": "2024-12-17 02:07:15 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/building_blocks/tainted_sandstone": {
+    "criteria": {
+      "has_tainted_sand": "2024-12-17 02:07:15 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/decorations/tainted_cobblestone_slab_stonecutting": {
+    "criteria": {
+      "has_tainted_cobblestone": "2024-12-17 02:07:15 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/decorations/tainted_cobblestone_wall": {
+    "criteria": {
+      "has_tainted_cobblestone": "2024-12-17 02:07:15 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/decorations/tainted_glass": {
+    "criteria": {
+      "has_tainted_sand": "2024-12-17 02:07:15 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/building_blocks/tainted_stone": {
+    "criteria": {
+      "has_tainted_cobblestone": "2024-12-17 02:07:15 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/building_blocks/tainted_cobblestone_stairs_stonecutting": {
+    "criteria": {
+      "has_tainted_cobblestone": "2024-12-17 02:07:15 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/building_blocks/tainted_cobblestone_stairs": {
+    "criteria": {
+      "has_tainted_cobblestone": "2024-12-17 02:07:15 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/redstone/tainted_pressure_plate": {
+    "criteria": {
+      "has_tainted_planks": "2024-12-17 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/building_blocks/tainted_stairs": {
+    "criteria": {
+      "has_tainted_planks": "2024-12-17 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/redstone/tainted_fence_gate": {
+    "criteria": {
+      "has_tainted_planks": "2024-12-17 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/decorations/tainted_slab": {
+    "criteria": {
+      "has_tainted_planks": "2024-12-17 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/redstone/tainted_door": {
+    "criteria": {
+      "has_tainted_planks": "2024-12-17 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/decorations/tainted_fence": {
+    "criteria": {
+      "has_tainted_planks": "2024-12-17 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/redstone/tainted_button": {
+    "criteria": {
+      "has_tainted_planks": "2024-12-17 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/redstone/tainted_trapdoor": {
+    "criteria": {
+      "has_tainted_planks": "2024-12-17 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/decorations/tainted_sign": {
+    "criteria": {
+      "has_tainted_planks": "2024-12-17 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/redstone/withered_phlegm_block": {
+    "criteria": {
+      "has_tainted_dust": "2024-12-17 02:11:25 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/decorations/tainted_torch": {
+    "criteria": {
+      "has_tainted_dust": "2024-12-17 02:11:25 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/building_blocks/tainted_dust_block": {
+    "criteria": {
+      "has_tainted_dust": "2024-12-17 02:11:25 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:frosted_caves": {
+    "criteria": {
+      "frosted_caves": "2024-12-17 02:43:12 +0000"
+    },
+    "done": true
+  },
+  "cwsplus:on_hit": {
+    "criteria": {
+      "not_target": "2024-12-17 02:54:15 +0000"
+    },
+    "done": false
+  },
+  "witherstormmod:recipes/misc/super_beacon": {
+    "criteria": {
+      "has_withered_nether_star": "2024-12-17 02:59:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2024-12-17 02:59:07 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:main/wither_storm_defeated": {
+    "criteria": {
+      "obtain_withered_nether_star": "2024-12-17 02:59:07 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/misc/super_support_beacon": {
+    "criteria": {
+      "has_the_recipe": "2024-12-17 02:59:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2024-12-17 02:59:07 +0000"
+    },
+    "done": true
+  },
   "cwsplus:on_hurt": {
     "criteria": {
       "nbit8": "2024-12-17 03:00:04 +0000",
@@ -4348,33 +4552,9 @@
     },
     "done": false
   },
-  "witherstormmod:main/escape_wither_storm": {
+  "tombstone:adventure/chain_death": {
     "criteria": {
-      "escape_wither_storm": "2024-12-17 01:54:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit": {
-    "criteria": {
-      "has_rabbit": "2024-12-17 01:58:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
-    "criteria": {
-      "has_rabbit": "2024-12-17 01:58:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2024-12-17 03:05:40 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:main/belly_of_the_beast": {
-    "criteria": {
-      "enter_bowels": "2024-12-17 02:05:58 +0000"
+      "coded_trigger": "2024-12-17 03:01:11 +0000"
     },
     "done": true
   },
@@ -4390,54 +4570,6 @@
     },
     "done": true
   },
-  "yungscavebiomes:frosted_caves": {
-    "criteria": {
-      "frosted_caves": "2024-12-17 02:43:12 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/birch_shrub": {
-    "criteria": {
-      "has_birch_sapling": "2024-12-17 03:05:31 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/decorations/tainted_cobblestone_slab": {
-    "criteria": {
-      "has_tainted_cobblestone": "2024-12-17 02:07:15 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/redstone/withered_phlegm_block": {
-    "criteria": {
-      "has_tainted_dust": "2024-12-17 02:11:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather": {
-    "criteria": {
-      "has_rabbit_hide": "2024-12-17 01:58:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2024-12-17 03:05:40 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/redstone/tainted_pressure_plate": {
-    "criteria": {
-      "has_tainted_planks": "2024-12-17 02:11:24 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/building_blocks/tainted_stairs": {
-    "criteria": {
-      "has_tainted_planks": "2024-12-17 02:11:24 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/bolt": {
     "criteria": {
       "has_feather": "2024-12-17 03:05:30 +0000"
@@ -4450,165 +4582,33 @@
     },
     "done": true
   },
-  "witherstormmod:recipes/building_blocks/tainted_sandstone": {
-    "criteria": {
-      "has_tainted_sand": "2024-12-17 02:07:15 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/decorations/tainted_torch": {
-    "criteria": {
-      "has_tainted_dust": "2024-12-17 02:11:25 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/redstone/tainted_fence_gate": {
-    "criteria": {
-      "has_tainted_planks": "2024-12-17 02:11:24 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/decorations/tainted_slab": {
-    "criteria": {
-      "has_tainted_planks": "2024-12-17 02:11:24 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/decorations/tainted_cobblestone_slab_stonecutting": {
-    "criteria": {
-      "has_tainted_cobblestone": "2024-12-17 02:07:15 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/redstone/tainted_door": {
-    "criteria": {
-      "has_tainted_planks": "2024-12-17 02:11:24 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/building_blocks/tainted_dust_block": {
-    "criteria": {
-      "has_tainted_dust": "2024-12-17 02:11:25 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/decorations/tainted_cobblestone_wall": {
-    "criteria": {
-      "has_tainted_cobblestone": "2024-12-17 02:07:15 +0000"
-    },
-    "done": true
-  },
-  "cwsplus:on_hit": {
-    "criteria": {
-      "not_target": "2024-12-17 02:54:15 +0000"
-    },
-    "done": false
-  },
   "spartanweaponry:recipes/diamond_bolt": {
     "criteria": {
       "has_feather": "2024-12-17 03:05:30 +0000"
     },
     "done": true
   },
-  "witherstormmod:recipes/decorations/tainted_fence": {
+  "regions_unexplored:recipes/decorations/birch_shrub": {
     "criteria": {
-      "has_tainted_planks": "2024-12-17 02:11:24 +0000"
+      "has_birch_sapling": "2024-12-17 03:05:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+  "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
-      "has_rabbit": "2024-12-17 01:58:11 +0000"
+      "has_log": "2024-12-17 03:05:40 +0000"
     },
     "done": true
   },
-  "witherstormmod:recipes/redstone/tainted_button": {
+  "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
-      "has_tainted_planks": "2024-12-17 02:11:24 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/misc/super_beacon": {
-    "criteria": {
-      "has_withered_nether_star": "2024-12-17 02:59:07 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/chain_death": {
-    "criteria": {
-      "coded_trigger": "2024-12-17 03:01:11 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_voodoo_poppet": {
-    "criteria": {
-      "has_voodoo_poppet": "2024-12-17 02:59:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/creeper_banner_pattern": {
-    "criteria": {
-      "has_creeper_head": "2024-12-17 02:01:07 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:main/wither_storm_defeated": {
-    "criteria": {
-      "obtain_withered_nether_star": "2024-12-17 02:59:07 +0000"
+      "has_logs": "2024-12-17 03:05:40 +0000"
     },
     "done": true
   },
   "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
     "criteria": {
       "has_log": "2024-12-17 03:05:40 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/redstone/tainted_trapdoor": {
-    "criteria": {
-      "has_tainted_planks": "2024-12-17 02:11:24 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/decorations/tainted_glass": {
-    "criteria": {
-      "has_tainted_sand": "2024-12-17 02:07:15 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/building_blocks/tainted_stone": {
-    "criteria": {
-      "has_tainted_cobblestone": "2024-12-17 02:07:15 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/building_blocks/tainted_cobblestone_stairs_stonecutting": {
-    "criteria": {
-      "has_tainted_cobblestone": "2024-12-17 02:07:15 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/building_blocks/tainted_cobblestone_stairs": {
-    "criteria": {
-      "has_tainted_cobblestone": "2024-12-17 02:07:15 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/misc/super_support_beacon": {
-    "criteria": {
-      "has_the_recipe": "2024-12-17 02:59:07 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/enchant_voodoo_poppet": {
-    "criteria": {
-      "has_enchanted_voodoo_poppet": "2024-12-17 02:59:07 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/decorations/tainted_sign": {
-    "criteria": {
-      "has_tainted_planks": "2024-12-17 02:11:24 +0000"
     },
     "done": true
   },
