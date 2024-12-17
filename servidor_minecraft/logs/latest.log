@@ -332,3 +332,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [17Dec2024 19:17:34.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> brubjuburjW
 [17Dec2024 19:29:10.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quipit0s> PAPUSIDA
 [17Dec2024 19:33:55.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s has made the advancement [Neighborhood Brawl]
+[17Dec2024 19:35:39.340] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quipit0s lost connection: Disconnected
+[17Dec2024 19:35:39.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s left the game
+[17Dec2024 19:35:47.404] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: quipit0s[/127.23.187.149:60329] logged in with entity id 37629 at (-5538.699999988079, 63.0, -2164.699999988079)
+[17Dec2024 19:35:47.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quipit0s joined the game
